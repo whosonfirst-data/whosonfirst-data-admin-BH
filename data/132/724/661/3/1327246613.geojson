@@ -1,0 +1,73 @@
+{
+  "id": 1327246613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.51667,26.22139,50.51667,26.22139",
+    "geom:latitude":26.22139,
+    "geom:longitude":50.51667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Hillat `Abd as Salih",
+    "gn:country_code":"BH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290240,
+    "gn:latitude":26.22139,
+    "gn:longitude":50.51667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"\u1e28illat \u2018Abd a\u015f \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0650\u0644\u064e\u0651\u0629 \u0639\u064e\u0628\u0652\u062f \u0627\u064e\u0644\u0635\u064e\u0651\u0627\u0644\u0650\u062d"
+    ],
+    "name:und_x_variant":[
+        "Hillat",
+        "\u1e28illah",
+        "\u1e28illat \u2018Abd a\u015f \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290240
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"a5220241df3f0a00ec3e1f82d4a5ac30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1327246613,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":1327246613,
+    "wof:lastmodified":1537587816,
+    "wof:name":"Hillat `Abd as Salih",
+    "wof:parent_id":85669053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.51667,
+    26.22139,
+    50.51667,
+    26.22139
+],
+  "geometry": {"coordinates":[50.51667,26.22139],"type":"Point"}
+}

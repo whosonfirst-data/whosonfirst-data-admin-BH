@@ -1,0 +1,84 @@
+{
+  "id": 421174905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.5648215,26.222319,50.5648215,26.222319",
+    "geom:latitude":26.222319,
+    "geom:longitude":50.564822,
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0641\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0641\u0644"
+    ],
+    "name:nno_x_preferred":[
+        "Al Quful"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Al Quful",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":347078,
+    "qs:woe_adm0":23424753,
+    "qs:woe_id":22725918,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725918,
+        "qs:id":347078
+    },
+    "wof:country":"BH",
+    "wof:created":1459009047,
+    "wof:geomhash":"b2706a7562d6a0b036aaa2f86e6099f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":421174905,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":421174905,
+    "wof:lastmodified":1531858408,
+    "wof:name":"Al Quful",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.5648215,
+    26.222319,
+    50.5648215,
+    26.222319
+],
+  "geometry": {"coordinates":[50.5648215,26.222319],"type":"Point"}
+}

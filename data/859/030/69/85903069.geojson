@@ -1,0 +1,113 @@
+{
+  "id": 85903069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12449642.869906,
+    "geom:bbox":"50.538539,26.214401,50.538539,26.214401",
+    "geom:latitude":26.214401,
+    "geom:longitude":50.538539,
+    "gn:latitude":26.21556,
+    "gn:longitude":50.55,
+    "iso:country":"BH",
+    "lbl:latitude":26.214401,
+    "lbl:longitude":50.538539,
+    "mps:latitude":26.20343,
+    "mps:longitude":50.5334,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "As Salihiyah"
+    ],
+    "name:ara_x_preferred":[
+        "A\u015f \u015e\u0101lih\u0327\u012byah"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u064e\u0644\u0635\u064e\u0651\u0627\u0644\u0650\u062d\u0650\u064a\u064e\u0651\u0629"
+    ],
+    "name:unk_x_variant":[
+        "A\u015f \u015e\u0101li\u1e29\u012byah",
+        "A\u015f \u015e\u0101lih\u0327\u012byah"
+    ],
+    "qs:gn_adm0_cc":"BH",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":290340,
+    "qs:gn_namadm1":"16",
+    "qs:gn_name":"A\u015f \u015e\u0101li\u1e29\u012byah",
+    "qs:local_max":1563,
+    "qs:local_sum":7156,
+    "qs:localhoods":22,
+    "qs:name":"A\u015f \u015e\u0101lih\u0327\u012byah",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:name_adm2":"\u0628\u0648 \u0631\u062d\u0645\u0629",
+    "qs:name_local":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photo_max":497,
+    "qs:photo_sum":1023,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":2344720,
+    "qs:woe_adm2":56438008,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290302,
+        "gp:id":1966989,
+        "qs:id":1083636,
+        "qs_pg:id":1083636
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"7cdb8e6d1872d086b25d98ba40d7d877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":85903069,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":85903069,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936005,
+    "wof:name":"A\u015f \u015e\u0101lih\u0327\u012byah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.538539,
+    26.214401,
+    50.538539,
+    26.214401
+],
+  "geometry": {"coordinates":[50.538539,26.214401],"type":"Point"}
+}

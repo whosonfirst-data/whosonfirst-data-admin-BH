@@ -1,0 +1,110 @@
+{
+  "id": 85932265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.610494,26.21668,50.610494,26.21668",
+    "geom:latitude":26.21668,
+    "geom:longitude":50.610494,
+    "gn:id":"",
+    "iso:country":"BH",
+    "lbl:latitude":26.21668,
+    "lbl:longitude":50.610494,
+    "mps:latitude":26.217506,
+    "mps:longitude":50.613338,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u0645\u0639 324"
+    ],
+    "name:eng_x_preferred":[
+        "Block 324"
+    ],
+    "name:eng_x_variant":[
+        "Block 324"
+    ],
+    "name:unk_x_variant":[
+        "\u0645\u062c\u0645\u0639 324"
+    ],
+    "qs:gn_adm0_cc":"BH",
+    "qs:gn_id":0,
+    "qs:gn_local":290340,
+    "qs:local_max":1563,
+    "qs:local_sum":7156,
+    "qs:localhoods":22,
+    "qs:name":"\u0645\u062c\u0645\u0639 324",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:name_adm2":"\u0627\u0644\u0641\u0627\u062a\u062d",
+    "qs:name_en":"Block 324",
+    "qs:name_local":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photo_max":25,
+    "qs:photo_sum":205,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":2344720,
+    "qs:woe_adm2":56438080,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55927422,
+        "qs:id":888409,
+        "qs_pg:id":888409
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"1b96b4f8a68cb5ab5f2fce02775ab9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":85932265,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":85932265,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1551820709,
+    "wof:name":"\u0645\u062c\u0645\u0639 324",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.610494,
+    26.21668,
+    50.610494,
+    26.21668
+],
+  "geometry": {"coordinates":[50.610494,26.21668],"type":"Point"}
+}

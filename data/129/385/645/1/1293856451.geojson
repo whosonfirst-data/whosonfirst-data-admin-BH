@@ -1,0 +1,72 @@
+{
+  "id": 1293856451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.52944,26.23028,50.52944,26.23028",
+    "geom:latitude":26.23028,
+    "geom:longitude":50.52944,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Karbabad",
+    "gn:country_code":"BH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290204,
+    "gn:latitude":26.23028,
+    "gn:longitude":50.52944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karb\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064e\u0631\u0652\u0628\u064e\u0627\u0628\u064e\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Karb\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290204,
+        "wk:page":"Karbabad"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"205401a774f8b4a99acfa1b9e2b69316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1293856451,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":1293856451,
+    "wof:lastmodified":1537587815,
+    "wof:name":"Karbabad",
+    "wof:parent_id":85669053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.52944,
+    26.23028,
+    50.52944,
+    26.23028
+],
+  "geometry": {"coordinates":[50.52944,26.23028],"type":"Point"}
+}

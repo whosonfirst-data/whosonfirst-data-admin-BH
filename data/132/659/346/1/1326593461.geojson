@@ -1,0 +1,75 @@
+{
+  "id": 1326593461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.61499,25.97889,50.61499,25.97889",
+    "geom:latitude":25.97889,
+    "geom:longitude":50.61499,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ad Dur",
+    "gn:country_code":"BH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290384,
+    "gn:latitude":25.97889,
+    "gn:longitude":50.61499,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ad D\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u062f\u064f\u0651\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "Ad D\u016br"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r al Man\u0101d\u012bl",
+        "Dur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290384
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"5e61b9195d056fbef51f6b6cbb5ed3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1326593461,
+            "region_id":85669039
+        }
+    ],
+    "wof:id":1326593461,
+    "wof:lastmodified":1537587821,
+    "wof:name":"Ad Dur",
+    "wof:parent_id":85669039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.61499,
+    25.97889,
+    50.61499,
+    25.97889
+],
+  "geometry": {"coordinates":[50.61499,25.97889],"type":"Point"}
+}

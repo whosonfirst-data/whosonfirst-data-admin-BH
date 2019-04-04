@@ -1,0 +1,73 @@
+{
+  "id": 1276208601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.55,26.2,50.55,26.2",
+    "geom:latitude":26.2,
+    "geom:longitude":50.55,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jamalah",
+    "gn:country_code":"BH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290229,
+    "gn:latitude":26.2,
+    "gn:longitude":50.55,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Jam\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064e\u0645\u064e\u0627\u0644\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jumayl\u0101t",
+        "Jamala",
+        "Jam\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290229
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"83f912a18c30c1ff4df7e10e059dc010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1276208601,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":1276208601,
+    "wof:lastmodified":1537587815,
+    "wof:name":"Jamalah",
+    "wof:parent_id":85669053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.55,
+    26.2,
+    50.55,
+    26.2
+],
+  "geometry": {"coordinates":[50.55,26.2],"type":"Point"}
+}

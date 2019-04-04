@@ -1,0 +1,72 @@
+{
+  "id": 1292918671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.48194,26.11556,50.48194,26.11556",
+    "geom:latitude":26.11556,
+    "geom:longitude":50.48194,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Karzakkan",
+    "gn:country_code":"BH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290201,
+    "gn:latitude":26.11556,
+    "gn:longitude":50.48194,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Karzakk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064e\u0631\u0652\u0632\u064e\u0643\u064e\u0651\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Karrzakk\u0101n",
+        "Karzakk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290201
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"16305903f85697241b02a9045f46c51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1292918671,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1292918671,
+    "wof:lastmodified":1537587814,
+    "wof:name":"Karzakkan",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.48194,
+    26.11556,
+    50.48194,
+    26.11556
+],
+  "geometry": {"coordinates":[50.48194,26.11556],"type":"Point"}
+}

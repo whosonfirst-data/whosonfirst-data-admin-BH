@@ -1,0 +1,73 @@
+{
+  "id": 1209633851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.49472,26.23056,50.49472,26.23056",
+    "geom:latitude":26.23056,
+    "geom:longitude":50.49472,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Jannusan",
+    "gn:country_code":"BH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290226,
+    "gn:latitude":26.23056,
+    "gn:longitude":50.49472,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Jann\u016bs\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064e\u0646\u064f\u0651\u0648\u0633\u064e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Djannus\u0101n",
+        "Jann\u016bs\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290226,
+        "wk:page":"Jannusan"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"65c62cc5cc1c075f2d84598518ad59b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1209633851,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1209633851,
+    "wof:lastmodified":1551820641,
+    "wof:name":"Jannusan",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.49472,
+    26.23056,
+    50.49472,
+    26.23056
+],
+  "geometry": {"coordinates":[50.49472,26.23056],"type":"Point"}
+}

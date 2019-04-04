@@ -1,0 +1,81 @@
+{
+  "id": 421175137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.61167,26.21056,50.61167,26.21056",
+    "geom:latitude":26.21056,
+    "geom:longitude":50.61167,
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u062c\u064f\u0641\u064e\u064a\u0652\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Al-Djufayr"
+    ],
+    "qs:gn_country":"BH",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":290347,
+    "qs:gn_pop":0,
+    "qs:name":"Al Juffayr",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photos":171,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":171,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":352999,
+    "qs:woe_adm0":23424753,
+    "qs:woe_id":22725920,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290347,
+        "gp:id":22725920,
+        "qs:id":352999
+    },
+    "wof:country":"BH",
+    "wof:created":1459009056,
+    "wof:geomhash":"6a7368516d3721b2a10aeb170b9adea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":421175137,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":421175137,
+    "wof:lastmodified":1551820710,
+    "wof:name":"Al Juffayr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.61167,
+    26.21056,
+    50.61167,
+    26.21056
+],
+  "geometry": {"coordinates":[50.61167,26.21056],"type":"Point"}
+}

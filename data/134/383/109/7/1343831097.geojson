@@ -1,0 +1,73 @@
+{
+  "id": 1343831097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.635,26.28,50.635,26.28",
+    "geom:latitude":26.28,
+    "geom:longitude":50.635,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Samahij",
+    "gn:country_code":"BH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290123,
+    "gn:latitude":26.28,
+    "gn:longitude":50.635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sam\u0101h\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064e\u0645\u064e\u0627\u0647\u0650\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Simahij",
+        "Sam\u0101h\u012bdj",
+        "Sam\u0101h\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290123
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"43844cc32d699056f6d6ae5b18e6984d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1343831097,
+            "region_id":85669059
+        }
+    ],
+    "wof:id":1343831097,
+    "wof:lastmodified":1537587813,
+    "wof:name":"Samahij",
+    "wof:parent_id":85669059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.635,
+    26.28,
+    50.635,
+    26.28
+],
+  "geometry": {"coordinates":[50.635,26.28],"type":"Point"}
+}

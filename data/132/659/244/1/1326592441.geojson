@@ -1,0 +1,76 @@
+{
+  "id": 1326592441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.44917,26.16222,50.44917,26.16222",
+    "geom:latitude":26.16222,
+    "geom:longitude":50.44917,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Jasrah",
+    "gn:country_code":"BH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290351,
+    "gn:latitude":26.16222,
+    "gn:longitude":50.44917,
+    "gn:modification_date":"2016-11-14",
+    "gn:name":"Al Jasrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u062c\u064e\u0633\u0652\u0631\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al-Djasra",
+        "Jesera",
+        "Jasra",
+        "Jasrah",
+        "Al Jasrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290351,
+        "wk:page":"Jasra"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"4dcac838ac154003f1d96d9bd43072fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1326592441,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1326592441,
+    "wof:lastmodified":1537587820,
+    "wof:name":"Al Jasrah",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.44917,
+    26.16222,
+    50.44917,
+    26.16222
+],
+  "geometry": {"coordinates":[50.44917,26.16222],"type":"Point"}
+}

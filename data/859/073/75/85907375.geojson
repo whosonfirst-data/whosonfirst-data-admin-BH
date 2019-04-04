@@ -1,0 +1,110 @@
+{
+  "id": 85907375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4188889.89178,
+    "geom:bbox":"50.585605,26.226874,50.585605,26.226874",
+    "geom:latitude":26.226874,
+    "geom:longitude":50.585605,
+    "gn:latitude":26.19722,
+    "gn:longitude":50.46278,
+    "iso:country":"BH",
+    "lbl:latitude":26.226874,
+    "lbl:longitude":50.585605,
+    "mps:latitude":26.226637,
+    "mps:longitude":50.587309,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "Al Qudaybiyah"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u064e\u0644\u0652\u0642\u064f\u0631\u064e\u064a\u064e\u0651\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Kuriya",
+        "Al Qudaybiyah"
+    ],
+    "qs:gn_adm0_cc":"BH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":290340,
+    "qs:gn_namadm1":"19",
+    "qs:gn_name":"Al Qurayyah",
+    "qs:local_max":1563,
+    "qs:local_sum":7156,
+    "qs:localhoods":22,
+    "qs:name":"Al Qudaybiyah",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:name_adm2":"\u0627\u0644\u0642\u0636\u064a\u0628\u064a\u0629",
+    "qs:name_local":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photo_max":519,
+    "qs:photo_sum":1563,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":2344720,
+    "qs:woe_adm2":56437969,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290323,
+        "gp:id":22725915,
+        "qs:id":1086009,
+        "qs_pg:id":1086009
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"25cfd59924746519fef7db61aa8ad600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":85907375,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":85907375,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936551,
+    "wof:name":"Al Qudaybiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.585605,
+    26.226874,
+    50.585605,
+    26.226874
+],
+  "geometry": {"coordinates":[50.585605,26.226874],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 421199743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"50.594508,26.216304,50.594508,26.216304",
+    "geom:latitude":26.216304,
+    "geom:longitude":50.594508,
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Adliya-block 338",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photos":199,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":199,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":486832,
+    "qs:woe_adm0":23424753,
+    "qs:woe_id":55927309,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55927309,
+        "qs:id":486832
+    },
+    "wof:country":"BH",
+    "wof:created":1459009999,
+    "wof:geomhash":"d35b8ceae4b1ee4e1f932a035ee36a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":421199743,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":421199743,
+    "wof:lastmodified":1531858769,
+    "wof:name":"Adliya-block 338",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.594508,
+    26.216304,
+    50.594508,
+    26.216304
+],
+  "geometry": {"coordinates":[50.594508,26.216304],"type":"Point"}
+}

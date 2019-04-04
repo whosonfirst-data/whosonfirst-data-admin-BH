@@ -1,0 +1,72 @@
+{
+  "id": 1309722587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.58333,26.18333,50.58333,26.18333",
+    "geom:latitude":26.18333,
+    "geom:longitude":50.58333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kaflan",
+    "gn:cc2":"BH",
+    "gn:country_code":"BH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290205,
+    "gn:latitude":26.18333,
+    "gn:longitude":50.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kafl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064e\u0641\u0652\u0644\u0627\u064e\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kaflar",
+        "Kafl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290205
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"e6be8345a3dee74c4a36c768adfd99e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1309722587,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309722587,
+    "wof:lastmodified":1537587815,
+    "wof:name":"Kaflan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.58333,
+    26.18333,
+    50.58333,
+    26.18333
+],
+  "geometry": {"coordinates":[50.58333,26.18333],"type":"Point"}
+}

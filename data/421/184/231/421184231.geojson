@@ -1,0 +1,73 @@
+{
+  "id": 421184231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"50.562515,26.117604,50.562515,26.117604",
+    "geom:latitude":26.117604,
+    "geom:longitude":50.562515,
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"East Riffa-block 903",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":991479,
+    "qs:woe_adm0":23424753,
+    "qs:woe_id":55927250,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55927250,
+        "qs:id":991479
+    },
+    "wof:country":"BH",
+    "wof:created":1459009404,
+    "wof:geomhash":"cec813893fa7a0be7d6c841e726e37a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":421184231,
+            "region_id":85669039
+        }
+    ],
+    "wof:id":421184231,
+    "wof:lastmodified":1531858522,
+    "wof:name":"East Riffa-block 903",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.562515,
+    26.117604,
+    50.562515,
+    26.117604
+],
+  "geometry": {"coordinates":[50.562515,26.117604],"type":"Point"}
+}

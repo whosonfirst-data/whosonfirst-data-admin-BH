@@ -1,0 +1,87 @@
+{
+  "id": 421187545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.52722,26.0625,50.52722,26.0625",
+    "geom:latitude":26.0625,
+    "geom:longitude":50.52722,
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0635\u064e\u0651\u062e\u0650\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Sakhir"
+    ],
+    "qs:gn_country":"BH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":290303,
+    "qs:gn_pop":0,
+    "qs:name":"A\u015f \u015eakh\u012br",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+    "qs:photos":989,
+    "qs:photos_1k":200,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":989,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083635,
+    "qs:woe_adm0":23424753,
+    "qs:woe_id":1966988,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043,
+        85669039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290303,
+        "gp:id":1966988,
+        "qs:id":1083635
+    },
+    "wof:country":"BH",
+    "wof:created":1459009516,
+    "wof:geomhash":"51802b3cf7f03de405911d7f73d93c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":421187545,
+            "region_id":85669043
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":421187545,
+            "region_id":85669039
+        }
+    ],
+    "wof:id":421187545,
+    "wof:lastmodified":1551820680,
+    "wof:name":"A\u015f \u015eakh\u012br",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.52722,
+    26.0625,
+    50.52722,
+    26.0625
+],
+  "geometry": {"coordinates":[50.52722,26.0625],"type":"Point"}
+}

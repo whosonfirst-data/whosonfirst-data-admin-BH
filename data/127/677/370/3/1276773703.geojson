@@ -1,0 +1,72 @@
+{
+  "id": 1276773703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.48111,26.12639,50.48111,26.12639",
+    "geom:latitude":26.12639,
+    "geom:longitude":50.48111,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dumistan",
+    "gn:country_code":"BH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290260,
+    "gn:latitude":26.12639,
+    "gn:longitude":50.48111,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Dumist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064f\u0645\u0650\u0633\u0652\u062a\u064e\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "Dumist\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290260,
+        "wk:page":"Dumistan"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"9c5018fa1a547df53f46d7d26c5fc2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1276773703,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1276773703,
+    "wof:lastmodified":1537587816,
+    "wof:name":"Dumistan",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.48111,
+    26.12639,
+    50.48111,
+    26.12639
+],
+  "geometry": {"coordinates":[50.48111,26.12639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209068869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.47333,26.21028,50.47333,26.21028",
+    "geom:latitude":26.21028,
+    "geom:longitude":50.47333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Markh",
+    "gn:country_code":"BH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290336,
+    "gn:latitude":26.21028,
+    "gn:longitude":50.47333,
+    "gn:modification_date":"2016-11-14",
+    "gn:name":"Al Markh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u0645\u064e\u0631\u0652\u062e"
+    ],
+    "name:und_x_variant":[
+        "Markh",
+        "Al Markh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290336,
+        "wk:page":"Al_Markh"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"9cfbf7f78a63c63330cdeb1c4729d510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1209068869,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1209068869,
+    "wof:lastmodified":1551820640,
+    "wof:name":"Al Markh",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.47333,
+    26.21028,
+    50.47333,
+    26.21028
+],
+  "geometry": {"coordinates":[50.47333,26.21028],"type":"Point"}
+}

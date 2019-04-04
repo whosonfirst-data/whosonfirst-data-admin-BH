@@ -1,0 +1,72 @@
+{
+  "id": 1293462323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.54417,26.2075,50.54417,26.2075",
+    "geom:latitude":26.2075,
+    "geom:longitude":50.54417,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Abu Baham",
+    "gn:country_code":"BH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290395,
+    "gn:latitude":26.2075,
+    "gn:longitude":50.54417,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Ab\u016b Bah\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064e\u0628\u064f\u0648 \u0628\u064e\u0647\u064e\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Bah\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290395,
+        "wk:page":"Abu_Baham"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"ae651d3ebacab0e20c6abc66f776993e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1293462323,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":1293462323,
+    "wof:lastmodified":1537587821,
+    "wof:name":"Abu Baham",
+    "wof:parent_id":85669053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.54417,
+    26.2075,
+    50.54417,
+    26.2075
+],
+  "geometry": {"coordinates":[50.54417,26.2075],"type":"Point"}
+}

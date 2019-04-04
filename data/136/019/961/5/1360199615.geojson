@@ -1,0 +1,74 @@
+{
+  "id": 1360199615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.52,26.20472,50.52,26.20472",
+    "geom:latitude":26.20472,
+    "geom:longitude":50.52,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bu Quwah",
+    "gn:country_code":"BH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290275,
+    "gn:latitude":26.20472,
+    "gn:longitude":50.52,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"B\u016b Q\u016bwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064f\u0648 \u0642\u064f\u0648\u0648\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u016b Quwwah",
+        "Bukuwa",
+        "B\u016b Q\u016bwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290275,
+        "wk:page":"Bu_Quwah"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"cf4d73058759f50551e323756b2c8bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1360199615,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1360199615,
+    "wof:lastmodified":1537587817,
+    "wof:name":"Bu Quwah",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.52,
+    26.20472,
+    50.52,
+    26.20472
+],
+  "geometry": {"coordinates":[50.52,26.20472],"type":"Point"}
+}

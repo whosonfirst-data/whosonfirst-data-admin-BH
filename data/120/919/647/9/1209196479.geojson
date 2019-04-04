@@ -1,0 +1,68 @@
+{
+  "id": 1209196479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.56667,26.18333,50.56667,26.18333",
+    "geom:latitude":26.18333,
+    "geom:longitude":50.56667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kawrah",
+    "gn:country_code":"BH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290198,
+    "gn:latitude":26.18333,
+    "gn:longitude":50.56667,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Kawrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064e\u0648\u0652\u0631\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kawarah",
+        "Kawrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290198
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"37799b5402c625932df5eab7179d7036",
+    "wof:hierarchy":[
+        {
+            "country_id":85632167,
+            "locality_id":1209196479
+        }
+    ],
+    "wof:id":1209196479,
+    "wof:lastmodified":1537587814,
+    "wof:name":"Kawrah",
+    "wof:parent_id":85632167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.56667,
+    26.18333,
+    50.56667,
+    26.18333
+],
+  "geometry": {"coordinates":[50.56667,26.18333],"type":"Point"}
+}

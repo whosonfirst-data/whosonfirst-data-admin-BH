@@ -1,0 +1,78 @@
+{
+  "id": 1209190637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.55056,26.08444,50.55056,26.08444",
+    "geom:latitude":26.08444,
+    "geom:longitude":50.55056,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Oil City",
+    "gn:country_code":"BH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290299,
+    "gn:latitude":26.08444,
+    "gn:longitude":50.55056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oil City",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064e\u0648\u064e\u0627\u0644\u0650\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Aw\u0101l\u012b"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Aw\u0101l\u012b",
+        "Bapco",
+        "Al Chirabia",
+        "Kirabad",
+        "Al Ghiraibat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290299
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"f0ed4f9167a69bdcc81d50c6ee22af16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1209190637,
+            "region_id":85669039
+        }
+    ],
+    "wof:id":1209190637,
+    "wof:lastmodified":1551820640,
+    "wof:name":"Oil City",
+    "wof:parent_id":85669039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.55056,
+    26.08444,
+    50.55056,
+    26.08444
+],
+  "geometry": {"coordinates":[50.55056,26.08444],"type":"Point"}
+}

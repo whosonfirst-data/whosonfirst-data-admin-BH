@@ -1,0 +1,73 @@
+{
+  "id": 1343680571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.5,26.16667,50.5,26.16667",
+    "geom:latitude":26.16667,
+    "geom:longitude":50.5,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Khuways",
+    "gn:country_code":"BH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290193,
+    "gn:latitude":26.16667,
+    "gn:longitude":50.5,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Khuway\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u064f\u0648\u064e\u064a\u0652\u0635"
+    ],
+    "name:und_x_variant":[
+        "Huwais",
+        "Khuwais",
+        "Khuway\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290193
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"8d09088c03f40756b38cae35af983839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1343680571,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1343680571,
+    "wof:lastmodified":1537587814,
+    "wof:name":"Khuways",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.5,
+    26.16667,
+    50.5,
+    26.16667
+],
+  "geometry": {"coordinates":[50.5,26.16667],"type":"Point"}
+}

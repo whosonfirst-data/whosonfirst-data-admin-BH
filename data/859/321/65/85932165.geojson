@@ -1,0 +1,101 @@
+{
+  "id": 85932165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6438717.027859,
+    "geom:bbox":"50.462618,26.18121,50.462618,26.18121",
+    "geom:latitude":26.18121,
+    "geom:longitude":50.462618,
+    "gn:id":"",
+    "iso:country":"BH",
+    "lbl:latitude":26.18121,
+    "lbl:longitude":50.462618,
+    "mps:latitude":26.177623,
+    "mps:longitude":50.461175,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Janabiah-block 569"
+    ],
+    "name:unk_x_variant":[
+        "Janabiah-block 569"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":33,
+    "qs:local_sum":33,
+    "qs:localhoods":1,
+    "qs:name":"Janabiah-block 569",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+    "qs:name_adm2":"\u0627\u0644\u062c\u0646\u0628\u064a\u0629",
+    "qs:name_local":"\u0627\u0644\u062c\u0646\u0628\u064a\u0629",
+    "qs:photo_max":27,
+    "qs:photo_sum":33,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":56051603,
+    "qs:woe_adm2":56438062,
+    "qs:woe_lau":0,
+    "qs:woe_local":1966960,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55927220,
+        "qs:id":249377,
+        "qs_pg:id":249377
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"ba754a1360a36674cc34a14db0ab0b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":85932165,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":85932165,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531939462,
+    "wof:name":"Janabiah-block 569",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.462618,
+    26.18121,
+    50.462618,
+    26.18121
+],
+  "geometry": {"coordinates":[50.462618,26.18121],"type":"Point"}
+}

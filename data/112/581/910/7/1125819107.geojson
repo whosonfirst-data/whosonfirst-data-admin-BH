@@ -1,0 +1,155 @@
+{
+  "id": 1125819107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.54778,26.17361,50.54778,26.17361",
+    "geom:latitude":26.17361,
+    "geom:longitude":50.54778,
+    "gn:gn_country":"BH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":38090,
+    "gn:population":38090,
+    "iso:country":"BH",
+    "lbl:latitude":26.17361,
+    "lbl:longitude":50.54778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064e\u062f\u0650\u064a\u0646\u064e\u0629 \u0639\u0650\u064a\u0633\u064e\u0649"
+    ],
+    "name:aze_x_preferred":[
+        "Madinat-\u0130sa"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u85a9\u57ce"
+    ],
+    "name:dut_x_preferred":[
+        "Isa Town"
+    ],
+    "name:eng_x_preferred":[
+        "Isa Town"
+    ],
+    "name:fre_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:ger_x_preferred":[
+        "Madinat Isa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05e1\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b5\u30fb\u30bf\u30a6\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc0ac\ud0c0\uc6b4"
+    ],
+    "name:lit_x_preferred":[
+        "Madinat Isa"
+    ],
+    "name:nno_x_preferred":[
+        "Isa by"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0639\u06cc\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:por_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:rum_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:rup_x_preferred":[
+        "'Isa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0438\u043d\u0430\u0442-\u0418\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:swe_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c07\u0c38\u0c3e \u0c1f\u0c4c\u0c28\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Madinat 'Isa"
+    ],
+    "name:tur_x_preferred":[
+        "Medine \u0130sa"
+    ],
+    "name:unk_x_variant":[
+        "Medinat Isa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062f\u06cc\u0646\u06c1 \u0639\u06cc\u0633\u06cc\u0670"
+    ],
+    "qs_pg:aaroncc":"BH",
+    "qs_pg:gn_country":"BH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":290187,
+    "qs_pg:gn_pop":38090,
+    "qs_pg:name":"Mad\u012bnat \u2018\u012as\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":124061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290187,
+        "qs_pg:id":124061,
+        "wd:id":"Q1017673"
+    },
+    "wof:country":"BH",
+    "wof:created":1497291972,
+    "wof:geomhash":"2a92eb16977af97ff56ee567886bea6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1125819107,
+            "region_id":85669039
+        }
+    ],
+    "wof:id":1125819107,
+    "wof:lastmodified":1551820681,
+    "wof:name":"Mad\u012bnat \u2018\u012as\u00e1",
+    "wof:parent_id":85669039,
+    "wof:placetype":"locality",
+    "wof:population":38090,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.54778,
+    26.17361,
+    50.54778,
+    26.17361
+],
+  "geometry": {"coordinates":[50.54778,26.17361],"type":"Point"}
+}

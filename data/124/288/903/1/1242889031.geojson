@@ -1,0 +1,71 @@
+{
+  "id": 1242889031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.48972,26.08278,50.48972,26.08278",
+    "geom:latitude":26.08278,
+    "geom:longitude":50.48972,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sadad",
+    "gn:country_code":"BH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290136,
+    "gn:latitude":26.08278,
+    "gn:longitude":50.48972,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"\u015eadad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u064e\u062f\u064e\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u015eadad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290136
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"8bdc97b96fdb91b6af1a23722c7d85e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1242889031,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1242889031,
+    "wof:lastmodified":1537587813,
+    "wof:name":"Sadad",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.48972,
+    26.08278,
+    50.48972,
+    26.08278
+],
+  "geometry": {"coordinates":[50.48972,26.08278],"type":"Point"}
+}

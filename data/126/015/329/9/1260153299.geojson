@@ -1,0 +1,62 @@
+{
+  "id": 1260153299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.53685,26.23967,50.53685,26.23967",
+    "geom:latitude":26.23967,
+    "geom:longitude":50.53685,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Seef",
+    "gn:country_code":"BH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643013,
+    "gn:latitude":26.23967,
+    "gn:longitude":50.53685,
+    "gn:modification_date":"2013-11-18",
+    "gn:name":"Seef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643013,
+        "wk:page":"Seef"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"f14280d02f7567692f30e232c93fc18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260153299,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260153299,
+    "wof:lastmodified":1537487813,
+    "wof:name":"Seef",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.53685,
+    26.23967,
+    50.53685,
+    26.23967
+],
+  "geometry": {"coordinates":[50.53685,26.23967],"type":"Point"}
+}

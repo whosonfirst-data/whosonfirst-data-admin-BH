@@ -1,0 +1,72 @@
+{
+  "id": 1193026413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.51389,26.21111,50.51389,26.21111",
+    "geom:latitude":26.21111,
+    "geom:longitude":50.51389,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Hajar",
+    "gn:country_code":"BH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290360,
+    "gn:latitude":26.21111,
+    "gn:longitude":50.51389,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u062d\u064e\u062c\u064e\u0631"
+    ],
+    "name:und_x_variant":[
+        "Hajar",
+        "Al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290360
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"972eb23a98b442322702f95499d7bdaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1193026413,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":1193026413,
+    "wof:lastmodified":1537587820,
+    "wof:name":"Al Hajar",
+    "wof:parent_id":85669043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.51389,
+    26.21111,
+    50.51389,
+    26.21111
+],
+  "geometry": {"coordinates":[50.51389,26.21111],"type":"Point"}
+}

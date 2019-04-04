@@ -1,0 +1,74 @@
+{
+  "id": 1209788257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.56028,26.17917,50.56028,26.17917",
+    "geom:latitude":26.17917,
+    "geom:longitude":50.56028,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jidd `Ali",
+    "gn:country_code":"BH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290217,
+    "gn:latitude":26.17917,
+    "gn:longitude":50.56028,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Jidd \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0650\u062f\u0651 \u0639\u064e\u0644\u0650\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Jidd \u2018Al\u012b"
+    ],
+    "name:und_x_variant":[
+        "Judd Ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290217
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"d114bdae00bc955218264abf26b50c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1209788257,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":1209788257,
+    "wof:lastmodified":1551820707,
+    "wof:name":"Jidd `Ali",
+    "wof:parent_id":85669053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.56028,
+    26.17917000000001,
+    50.56028,
+    26.17917000000001
+],
+  "geometry": {"coordinates":[50.56028,26.17917000000001],"type":"Point"}
+}

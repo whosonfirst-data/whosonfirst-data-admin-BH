@@ -1,0 +1,102 @@
+{
+  "id": 85907377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2802604.092478,
+    "geom:bbox":"50.576999,26.214568,50.576999,26.214568",
+    "geom:latitude":26.214568,
+    "geom:longitude":50.576999,
+    "gn:id":"",
+    "iso:country":"BH",
+    "lbl:latitude":26.214568,
+    "lbl:longitude":50.576999,
+    "mps:latitude":26.215433,
+    "mps:longitude":50.573232,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "As Saqiyyah"
+    ],
+    "name:unk_x_variant":[
+        "As Saqiyyah"
+    ],
+    "qs:gn_adm0_cc":"BH",
+    "qs:gn_id":0,
+    "qs:gn_local":290340,
+    "qs:local_max":1563,
+    "qs:local_sum":7156,
+    "qs:localhoods":22,
+    "qs:name":"As Saqiyyah",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:name_adm2":"\u0627\u0644\u0633\u0644\u0645\u0627\u0646\u064a\u0629",
+    "qs:name_local":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photo_max":95,
+    "qs:photo_sum":456,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":2344720,
+    "qs:woe_adm2":56437988,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725916,
+        "qs:id":347081,
+        "qs_pg:id":347081
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"aa71836d869438f0f879678505ec192b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":85907377,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":85907377,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936552,
+    "wof:name":"As Saqiyyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.576999,
+    26.214568,
+    50.576999,
+    26.214568
+],
+  "geometry": {"coordinates":[50.576999,26.214568],"type":"Point"}
+}

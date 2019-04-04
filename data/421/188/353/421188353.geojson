@@ -1,0 +1,73 @@
+{
+  "id": 421188353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.556968,26.169612,50.556968,26.169612",
+    "geom:latitude":26.169612,
+    "geom:longitude":50.556968,
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0645\u062f\u064a\u0646\u0629 \u0639\u064a\u0633\u0649",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0648\u0633\u0637\u0649",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":153,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":22198,
+    "qs:woe_adm0":23424753,
+    "qs:woe_id":1967030,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1967030,
+        "qs:id":22198
+    },
+    "wof:country":"BH",
+    "wof:created":1459009543,
+    "wof:geomhash":"d402bc68c5d67d11dfdc4e864cbf2409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":421188353,
+            "region_id":85669039
+        }
+    ],
+    "wof:id":421188353,
+    "wof:lastmodified":1551820681,
+    "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u0639\u064a\u0633\u0649",
+    "wof:parent_id":85669039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.556968,
+    26.169612,
+    50.556968,
+    26.169612
+],
+  "geometry": {"coordinates":[50.556968,26.169612],"type":"Point"}
+}

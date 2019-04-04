@@ -1,0 +1,73 @@
+{
+  "id": 1243086395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.51917,26.21556,50.51917,26.21556",
+    "geom:latitude":26.21556,
+    "geom:longitude":50.51917,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Qadam",
+    "gn:country_code":"BH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290327,
+    "gn:latitude":26.21556,
+    "gn:longitude":50.51917,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Al Qadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u0642\u064e\u062f\u064e\u0645"
+    ],
+    "name:und_x_variant":[
+        "Qadam",
+        "Al Qadam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290327,
+        "wk:page":"Al_Qadam"
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"f9d7aa607a5e636a0e547b26582512cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":1243086395,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":1243086395,
+    "wof:lastmodified":1537587819,
+    "wof:name":"Al Qadam",
+    "wof:parent_id":85669053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.51917,
+    26.21556,
+    50.51917,
+    26.21556
+],
+  "geometry": {"coordinates":[50.51917,26.21556],"type":"Point"}
+}

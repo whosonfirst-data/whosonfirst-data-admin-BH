@@ -1,0 +1,104 @@
+{
+  "id": 85932205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3464610.878732,
+    "geom:bbox":"50.506897,26.083921,50.506897,26.083921",
+    "geom:latitude":26.083921,
+    "geom:longitude":50.506897,
+    "gn:id":"",
+    "iso:country":"BH",
+    "lbl:latitude":26.083921,
+    "lbl:longitude":50.506897,
+    "mps:latitude":26.083855,
+    "mps:longitude":50.506897,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Wadi-block 1211"
+    ],
+    "name:unk_x_variant":[
+        "Wadi-block 1211"
+    ],
+    "qs:gn_adm0_cc":"BH",
+    "qs:gn_id":0,
+    "qs:gn_local":290247,
+    "qs:gn_nam_loc":"madinat hamad",
+    "qs:gn_namadm1":"19",
+    "qs:local_max":14,
+    "qs:local_sum":20,
+    "qs:localhoods":3,
+    "qs:name":"Wadi-block 1211",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+    "qs:name_adm2":"\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f",
+    "qs:name_local":"\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f",
+    "qs:photo_max":4,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":56051603,
+    "qs:woe_adm2":56438107,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967029,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55927321,
+        "qs:id":991480,
+        "qs_pg:id":991480
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"d4d3484fd60c472a7ae5a15565082ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":85932205,
+            "region_id":85669043
+        }
+    ],
+    "wof:id":85932205,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531939469,
+    "wof:name":"Wadi-block 1211",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.506897,
+    26.083921,
+    50.506897,
+    26.083921
+],
+  "geometry": {"coordinates":[50.506897,26.083921],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293275085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.63528,26.23889,50.63528,26.23889",
+    "geom:latitude":26.23889,
+    "geom:longitude":50.63528,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Halat an Na`im",
+    "gn:country_code":"BH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290251,
+    "gn:latitude":26.23889,
+    "gn:longitude":50.63528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u1e28\u0101lat an Na\u2018\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bahrain",
+    "iso:country":"BH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064e\u0627\u0644\u064e\u0629 \u0627\u064e\u0644\u0646\u064e\u0651\u0639\u0650\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u1e24\u0101lat Nu\u2018aym",
+        "Naim",
+        "Halat al Naim",
+        "\u1e28\u0101lat an Na\u2018\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290251
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"4d1d2baece6edbb45bc9b2133a6a77e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293275085,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293275085,
+    "wof:lastmodified":1537587816,
+    "wof:name":"Halat an Na`im",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.63528,
+    26.23889,
+    50.63528,
+    26.23889
+],
+  "geometry": {"coordinates":[50.63528,26.23889],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 85932161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1353670.501826,
+    "geom:bbox":"50.603302,26.245634,50.603302,26.245634",
+    "geom:latitude":26.245634,
+    "geom:longitude":50.603302,
+    "gn:id":"",
+    "iso:country":"BH",
+    "lbl:latitude":26.245634,
+    "lbl:longitude":50.603302,
+    "mps:latitude":26.245223,
+    "mps:longitude":50.604695,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Muharraq City-block 215"
+    ],
+    "name:unk_x_variant":[
+        "Muharraq City-block 215"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":441,
+    "qs:local_sum":1029,
+    "qs:localhoods":10,
+    "qs:name":"Muharraq City-block 215",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u062d\u0631\u0642",
+    "qs:name_adm2":"\u0627\u0644\u0645\u062d\u0631\u0642",
+    "qs:name_local":"\u0627\u0644\u0645\u062d\u0631\u0642",
+    "qs:photo_max":30,
+    "qs:photo_sum":60,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":2344724,
+    "qs:woe_adm2":56438041,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967059,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55927205,
+        "qs:id":486825,
+        "qs_pg:id":486825
+    },
+    "wof:country":"BH",
+    "wof:geomhash":"f4b2c00c15f42372f7293871cd5b0e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85932161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85932161,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531939461,
+    "wof:name":"Muharraq City-block 215",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.603302,
+    26.245634,
+    50.603302,
+    26.245634
+],
+  "geometry": {"coordinates":[50.603302,26.245634],"type":"Point"}
+}
