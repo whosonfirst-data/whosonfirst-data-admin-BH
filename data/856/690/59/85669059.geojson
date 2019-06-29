@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 dal-Muharraq"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u54c8\u62c9\u683c\u7701"
-    ],
     "name:dan_x_preferred":[
         "Muharraq Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Muharraq Governorate"
+    "name:deu_x_preferred":[
+        "Gouvernement Muharraq"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c7\u03b1\u03c1\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Muharraq"
@@ -69,15 +69,6 @@
     ],
     "name:fra_x_preferred":[
         "Gouvernorat de Muharraq"
-    ],
-    "name:fre_x_preferred":[
-        "Gouvernorat de Muharraq"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Muharraq"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03c7\u03b1\u03c1\u03ac\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0ab9\u0abe\u0ab0\u0a95 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -112,11 +103,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u0939\u0930\u0915 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
-        "Pentadbiran Al Muharraq"
-    ],
     "name:msa_x_preferred":[
         "Pentadbiran Al Muharraq"
+    ],
+    "name:nld_x_preferred":[
+        "Muharraq Governorate"
     ],
     "name:nob_x_preferred":[
         "Muharraq guvernement"
@@ -126,9 +117,6 @@
     ],
     "name:nor_x_variant":[
         "Muharraq guvernement"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u062d\u0631\u0642"
     ],
     "name:pol_x_preferred":[
         "Muhafazat al-Muharrak"
@@ -297,7 +285,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550316,
+    "wof:lastmodified":1561837775,
     "wof:name":"Muharraq",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01333,
-    "geom:area_square_m":147941562.687778,
+    "geom:area_square_m":147941562.687692,
     "geom:bbox":"50.310047,26.0566235453,50.5400588591,26.320621",
     "geom:latitude":26.165473,
     "geom:longitude":50.475713,
@@ -38,14 +38,8 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 del Nord"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u65b9\u7701"
-    ],
     "name:deu_x_preferred":[
         "Schamal"
-    ],
-    "name:dut_x_preferred":[
-        "Noord"
     ],
     "name:eng_x_colloquial":[
         "Northern"
@@ -62,9 +56,6 @@
         "\u0634\u0645\u0627\u0644\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
-        "Gouvernorat septentrional"
-    ],
-    "name:fre_x_preferred":[
         "Gouvernorat septentrional"
     ],
     "name:hun_x_preferred":[
@@ -96,9 +87,6 @@
     ],
     "name:nor_x_variant":[
         "Nordlige guvernement"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0645\u0627\u0644\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "Al-Muhafazat asz-Szimalijja"
@@ -260,7 +248,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814710,
+    "wof:lastmodified":1561837775,
     "wof:name":"Northern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

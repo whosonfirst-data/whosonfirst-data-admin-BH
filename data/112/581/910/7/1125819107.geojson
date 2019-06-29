@@ -25,20 +25,17 @@
     "name:aze_x_preferred":[
         "Madinat-\u0130sa"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u85a9\u57ce"
-    ],
-    "name:dut_x_preferred":[
-        "Isa Town"
+    "name:deu_x_preferred":[
+        "Madinat Isa"
     ],
     "name:eng_x_preferred":[
         "Isa Town"
     ],
-    "name:fre_x_preferred":[
-        "Madinat 'Isa"
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0639\u06cc\u0633\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Madinat Isa"
+    "name:fra_x_preferred":[
+        "Madinat 'Isa"
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05d9\u05e1\u05d0"
@@ -55,11 +52,11 @@
     "name:lit_x_preferred":[
         "Madinat Isa"
     ],
+    "name:nld_x_preferred":[
+        "Isa Town"
+    ],
     "name:nno_x_preferred":[
         "Isa by"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u06a9 \u0639\u06cc\u0633\u06cc"
     ],
     "name:pol_x_preferred":[
         "Madinat 'Isa"
@@ -67,7 +64,7 @@
     "name:por_x_preferred":[
         "Madinat 'Isa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Madinat 'Isa"
     ],
     "name:rup_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u062f\u06cc\u0646\u06c1 \u0639\u06cc\u0633\u06cc\u0670"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u85a9\u57ce"
     ],
     "qs_pg:aaroncc":"BH",
     "qs_pg:gn_country":"BH",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1125819107,
-    "wof:lastmodified":1551820681,
+    "wof:lastmodified":1561837776,
     "wof:name":"Mad\u012bnat \u2018\u012as\u00e1",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",

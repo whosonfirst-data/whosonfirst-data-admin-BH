@@ -32,12 +32,6 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 Central"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u592e\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Centraal"
-    ],
     "name:eng_x_preferred":[
         "Middle"
     ],
@@ -46,7 +40,10 @@
         "Central",
         "Central Governorate"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0633\u0637\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Gouvernorat central"
     ],
     "name:hun_x_preferred":[
@@ -67,11 +64,11 @@
     "name:lit_x_preferred":[
         "Vidurin\u0117 muchafaza"
     ],
+    "name:nld_x_preferred":[
+        "Centraal"
+    ],
     "name:nob_x_preferred":[
         "Sentralguvernementet"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0633\u0637\u06cc"
     ],
     "name:pol_x_preferred":[
         "Al-Muhafazat al-Wusta"
@@ -102,6 +99,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0648\u0633\u0637\u06cc\u060c \u0628\u062d\u0631\u06cc\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u592e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BHR",
@@ -203,7 +203,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1551820700,
+    "wof:lastmodified":1561837775,
     "wof:name":"Al Wus\u0163\u00e1",
     "wof:parent_id":85632167,
     "wof:placetype":"region",
