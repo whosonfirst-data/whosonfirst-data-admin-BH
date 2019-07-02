@@ -19,16 +19,13 @@
     "name:aze_x_preferred":[
         "H\u0259m\u0259d"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u99ac\u5fb7\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Madinat Hamad"
-    ],
     "name:eng_x_preferred":[
         "Hamad Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0645\u062f\u06cc\u0646\u0647 \u062d\u0645\u062f"
+    ],
+    "name:fra_x_preferred":[
         "Hamad Town"
     ],
     "name:heb_x_preferred":[
@@ -46,11 +43,11 @@
     "name:lit_x_preferred":[
         "Madinat Hamadas"
     ],
+    "name:nld_x_preferred":[
+        "Madinat Hamad"
+    ],
     "name:nno_x_preferred":[
         "Hamad by"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u062f\u06cc\u0646\u0647 \u062d\u0645\u062f"
     ],
     "name:pol_x_preferred":[
         "Madinat Hamad"
@@ -58,7 +55,7 @@
     "name:por_x_preferred":[
         "Madinat Hamad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Madinat Hamad"
     ],
     "name:rus_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u062f\u06cc\u0646\u06c1 \u062d\u0645\u062f"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u99ac\u5fb7\u93ae"
     ],
     "qs:gn_country":"BH",
     "qs:gn_fcode":"PPL",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":421192447,
-    "wof:lastmodified":1553816380,
+    "wof:lastmodified":1561837776,
     "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

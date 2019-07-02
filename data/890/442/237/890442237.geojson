@@ -18,14 +18,11 @@
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0652\u062d\u064e\u062f\u0651"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u5e0c\u8fea"
-    ],
-    "name:dut_x_preferred":[
-        "Al Hidd"
-    ],
     "name:eng_x_preferred":[
         "Al Hidd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u062f"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d7\u05d3"
@@ -42,14 +39,14 @@
     "name:lit_x_preferred":[
         "Hidas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Al Hidd"
+    ],
+    "name:nld_x_preferred":[
         "Al Hidd"
     ],
     "name:nob_x_preferred":[
         "Al Hadd"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062d\u062f"
     ],
     "name:pol_x_preferred":[
         "Al-Hidd"
@@ -57,7 +54,7 @@
     "name:por_x_preferred":[
         "Al Hadad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Al Hadd"
     ],
     "name:sco_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062d\u062f"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u5e0c\u8fea"
     ],
     "qs:name":"Al \u1e28add",
     "qs:photos_9r":0,
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":890442237,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561837776,
     "wof:name":"Al \u1e28add",
     "wof:parent_id":85669059,
     "wof:placetype":"locality",
