@@ -16,11 +16,20 @@
     "name:ara_x_preferred":[
         "\u0645\u064e\u062f\u0650\u064a\u0646\u064e\u0629 \u062d\u064e\u0645\u064e\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f"
+    ],
     "name:aze_x_preferred":[
         "H\u0259m\u0259d"
     ],
+    "name:ceb_x_preferred":[
+        "Mad\u012bnat \u1e28amad"
+    ],
     "name:eng_x_preferred":[
         "Hamad Town"
+    ],
+    "name:eus_x_preferred":[
+        "Madinat Hamad"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062f\u06cc\u0646\u0647 \u062d\u0645\u062f"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":421192447,
-    "wof:lastmodified":1561837776,
+    "wof:lastmodified":1563331421,
     "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

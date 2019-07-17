@@ -18,11 +18,23 @@
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0652\u062d\u064e\u062f\u0651"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Al \u1e28add"
+    ],
     "name:eng_x_preferred":[
         "Al Hidd"
     ],
+    "name:eus_x_preferred":[
+        "Al-Hidd"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062d\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Al Hidd"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d7\u05d3"
@@ -43,6 +55,9 @@
         "Al Hidd"
     ],
     "name:nld_x_preferred":[
+        "Al Hidd"
+    ],
+    "name:nno_x_preferred":[
         "Al Hidd"
     ],
     "name:nob_x_preferred":[
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":890442237,
-    "wof:lastmodified":1561837776,
+    "wof:lastmodified":1563331432,
     "wof:name":"Al \u1e28add",
     "wof:parent_id":85669059,
     "wof:placetype":"locality",
