@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8380817.297134,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.573573,26.200741,50.573573,26.200741",
     "geom:latitude":26.200741,
     "geom:longitude":50.573573,
@@ -40,7 +40,10 @@
         "Bu Asheera"
     ],
     "name:eng_x_variant":[
-        "Bu Asheera"
+        "Bu Ashira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0639\u0634\u06cc\u0631\u0647"
     ],
     "name:unk_x_variant":[
         "\u0628\u0648 \u0639\u0634\u064a\u0631\u0629"
@@ -101,7 +104,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936007,
+    "wof:lastmodified":1563331399,
     "wof:name":"\u0628\u0648 \u0639\u0634\u064a\u0631\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

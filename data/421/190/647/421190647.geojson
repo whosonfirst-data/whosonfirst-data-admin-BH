@@ -57,6 +57,12 @@
     "name:aze_x_preferred":[
         "Manama"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u043c\u0430"
+    ],
+    "name:bcl_x_preferred":[
+        "Manama"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043d\u0430\u043c\u0430"
     ],
@@ -79,6 +85,9 @@
         "Al-Manama"
     ],
     "name:cdo_x_preferred":[
+        "Manama"
+    ],
+    "name:ceb_x_preferred":[
         "Manama"
     ],
     "name:ces_x_preferred":[
@@ -186,6 +195,9 @@
     "name:ilo_x_preferred":[
         "Manama"
     ],
+    "name:ina_x_preferred":[
+        "Manama"
+    ],
     "name:ind_x_preferred":[
         "Al-Manamah"
     ],
@@ -237,6 +249,9 @@
     "name:lit_x_preferred":[
         "Manama"
     ],
+    "name:lit_x_variant":[
+        "Menama"
+    ],
     "name:lmo_x_preferred":[
         "Manama"
     ],
@@ -267,8 +282,14 @@
     "name:msa_x_preferred":[
         "Manama"
     ],
+    "name:myv_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u043c\u0430"
+    ],
     "name:nah_x_preferred":[
         "Manamah"
+    ],
+    "name:nah_x_variant":[
+        "Man\u0101mah"
     ],
     "name:nan_x_preferred":[
         "Manama"
@@ -318,11 +339,17 @@
     "name:pnb_x_preferred":[
         "\u0645\u0646\u0627\u0645\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0645\u0627\u0646\u0627\u0645\u06c1"
+    ],
     "name:pol_x_preferred":[
         "Manama"
     ],
     "name:por_x_preferred":[
         "Manama"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0646\u0627\u0645\u0647"
     ],
     "name:roh_x_preferred":[
         "Manama"
@@ -332,6 +359,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0430\u043c\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5f\u1c71\u1c5f\u1c62\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Manama"
@@ -413,6 +443,9 @@
     ],
     "name:war_x_preferred":[
         "Manama"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9ea6\u7eb3\u9ea6"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10dc\u10d0\u10db\u10d0"
@@ -574,7 +607,7 @@
         }
     ],
     "wof:id":421190647,
-    "wof:lastmodified":1561837776,
+    "wof:lastmodified":1563331429,
     "wof:name":"Manama",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",

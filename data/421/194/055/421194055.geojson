@@ -16,14 +16,23 @@
     "name:ara_x_preferred":[
         "\u062c\u0650\u062f\u0651 \u062d\u064e\u0641\u0652\u0635"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u062f \u062d\u0641\u0635"
+    ],
     "name:arz_x_preferred":[
         "\u062c\u062f\u062d\u0641\u0635"
+    ],
+    "name:ceb_x_preferred":[
+        "Jidd \u1e28af\u015f"
     ],
     "name:deu_x_preferred":[
         "Dschidhafs"
     ],
     "name:eng_x_preferred":[
         "Jidhafs"
+    ],
+    "name:eus_x_preferred":[
+        "Jidd Haffs"
     ],
     "name:fas_x_preferred":[
         "\u062c\u062f\u062d\u0641\u0635"
@@ -38,6 +47,9 @@
         "D\u017eidhafsas"
     ],
     "name:nld_x_preferred":[
+        "Jidhafs"
+    ],
+    "name:nno_x_preferred":[
         "Jidhafs"
     ],
     "name:nob_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":421194055,
-    "wof:lastmodified":1561837776,
+    "wof:lastmodified":1563331423,
     "wof:name":"\u062c\u062f \u062d\u0641\u0635",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",

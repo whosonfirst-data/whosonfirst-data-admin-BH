@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 del Sud"
     ],
+    "name:ceb_x_preferred":[
+        "Southern Governorate"
+    ],
     "name:eng_x_preferred":[
         "Southern"
     ],
@@ -48,6 +51,12 @@
     ],
     "name:epo_x_preferred":[
         "Suda Provinco"
+    ],
+    "name:epo_x_variant":[
+        "Suda Gubernio"
+    ],
+    "name:eus_x_preferred":[
+        "Hegoaldeko eskualdea"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc\u0647"
@@ -72,6 +81,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ubd80\uc8fc"
     ],
     "name:lit_x_preferred":[
         "Piet\u0173 muchafaza"
@@ -237,7 +249,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837775,
+    "wof:lastmodified":1563331408,
     "wof:name":"Southern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

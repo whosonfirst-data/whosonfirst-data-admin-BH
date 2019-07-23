@@ -76,6 +76,9 @@
     "name:azb_x_preferred":[
         "\u0628\u062d\u0631\u0626\u06cc\u0646"
     ],
+    "name:azb_x_variant":[
+        "\u0628\u062d\u0631\u06cc\u0646"
+    ],
     "name:aze_x_preferred":[
         "B\u0259hreyn"
     ],
@@ -136,6 +139,9 @@
     "name:bxr_x_preferred":[
         "\u0411\u0430h\u0440\u044d\u0439\u043d"
     ],
+    "name:bxr_x_variant":[
+        "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"
+    ],
     "name:cat_x_preferred":[
         "Bahrain"
     ],
@@ -145,11 +151,17 @@
     "name:ceb_x_preferred":[
         "Bareyn"
     ],
+    "name:ceb_x_variant":[
+        "Bahrayn"
+    ],
     "name:ces_x_preferred":[
         "Bahrajn"
     ],
     "name:che_x_preferred":[
         "\u0411\u0430\u0445\u044c\u0440\u0430\u0439\u043d"
+    ],
+    "name:che_x_variant":[
+        "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"
     ],
     "name:chr_x_preferred":[
         "\u13c6\u13ad\u13b4\u13a2\u13c2"
@@ -256,6 +268,9 @@
     ],
     "name:fry_x_preferred":[
         "Bachrein"
+    ],
+    "name:fry_x_variant":[
+        "De Barein"
     ],
     "name:ful_x_preferred":[
         "Bahreyn"
@@ -459,6 +474,9 @@
     "name:lez_x_preferred":[
         "\u0411\u0430\u0433\u044c\u0440\u0435\u0439\u043d"
     ],
+    "name:lfn_x_preferred":[
+        "Barain"
+    ],
     "name:lij_x_preferred":[
         "Bahrain"
     ],
@@ -480,6 +498,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0628\u0623\u062d\u0631\u0626\u06cc\u0646"
+    ],
+    "name:lrc_x_variant":[
+        "\u0628\u062d\u0631\u06cc\u0646"
     ],
     "name:ltz_x_preferred":[
         "Bahrain"
@@ -780,6 +801,9 @@
     "name:tgl_x_preferred":[
         "Barein"
     ],
+    "name:tgl_x_variant":[
+        "Bahrain"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e2b\u0e4c\u0e40\u0e23\u0e19"
     ],
@@ -793,6 +817,9 @@
         "Paleini"
     ],
     "name:tpi_x_preferred":[
+        "Bahrain"
+    ],
+    "name:tso_x_preferred":[
         "Bahrain"
     ],
     "name:tuk_x_preferred":[
@@ -880,6 +907,9 @@
     ],
     "name:zea_x_preferred":[
         "Bahrein"
+    ],
+    "name:zha_x_preferred":[
+        "Bahrain"
     ],
     "name:zho_min_nan_x_preferred":[
         "Bahrain"
@@ -1038,7 +1068,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837776,
+    "wof:lastmodified":1563331412,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

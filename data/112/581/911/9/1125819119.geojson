@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Al-Muharraq"
     ],
+    "name:ceb_x_preferred":[
+        "Al Muharraq"
+    ],
     "name:dan_x_preferred":[
         "Al-Muharraq"
     ],
@@ -47,8 +50,14 @@
     "name:eng_x_preferred":[
         "Al Muharraq"
     ],
+    "name:eng_x_variant":[
+        "Muharraq"
+    ],
     "name:epo_x_preferred":[
         "Muharrako"
+    ],
+    "name:eus_x_preferred":[
+        "Al-Muharraq"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062d\u0631\u0642"
@@ -113,6 +122,9 @@
     "name:pol_x_preferred":[
         "Al Muharrak"
     ],
+    "name:pol_x_variant":[
+        "Al-Muharrak"
+    ],
     "name:por_x_preferred":[
         "Al Muharraq"
     ],
@@ -121,6 +133,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u041c\u0443\u0445\u0430\u0440\u0440\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0443\u0445\u0430\u0440\u0440\u0430\u043a"
     ],
     "name:sco_x_preferred":[
         "Muharraq"
@@ -201,7 +216,7 @@
         }
     ],
     "wof:id":1125819119,
-    "wof:lastmodified":1561837776,
+    "wof:lastmodified":1563331432,
     "wof:name":"Al Mu\u1e29arraq",
     "wof:parent_id":85669059,
     "wof:placetype":"locality",

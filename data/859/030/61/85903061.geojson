@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Ghuraifa"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u063a\u0631\u06cc\u0641\u0647"
+    ],
     "name:unk_x_variant":[
         "Ghurayfah",
         "Al Ghurayfah"
@@ -102,7 +105,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551820710,
+    "wof:lastmodified":1563331398,
     "wof:name":"Al Ghurayfah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
