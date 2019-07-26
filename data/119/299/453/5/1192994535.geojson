@@ -28,12 +28,27 @@
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0632\u064e\u0651\u0644\u0627\u064e\u0651\u0642"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0632\u0644\u0627\u0642"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0644\u0627\u0642"
+    ],
+    "name:nno_x_preferred":[
+        "Zallaq"
+    ],
+    "name:tur_x_preferred":[
+        "Zallak"
+    ],
     "name:und_x_variant":[
         "Al-Zall\u0101k",
         "Zellaq",
         "Zelzaq",
         "Zallaq",
         "Az Zall\u0101q"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0644\u0627\u0642"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1192994535,
-    "wof:lastmodified":1551820680,
+    "wof:lastmodified":1564178301,
     "wof:name":"Az Zallaq",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",

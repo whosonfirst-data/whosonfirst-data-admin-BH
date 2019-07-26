@@ -29,7 +29,20 @@
         "\u0628\u064e\u0627\u0631\u0652\u0628\u064e\u0627\u0631"
     ],
     "name:ara_x_variant":[
-        "B\u0101rb\u0101r"
+        "B\u0101rb\u0101r",
+        "\u0628\u0627\u0631\u0628\u0627\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0628\u0627\u0631"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30eb\u30d0\u30fc\u30eb\u6751"
+    ],
+    "name:swe_x_preferred":[
+        "Barbar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u0628\u0627\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +66,7 @@
         }
     ],
     "wof:id":1360004453,
-    "wof:lastmodified":1537587817,
+    "wof:lastmodified":1564178304,
     "wof:name":"Barbar",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

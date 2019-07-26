@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0623\u064e\u0628\u064f\u0648 \u0628\u064e\u0647\u064e\u0627\u0645"
     ],
+    "name:nno_x_preferred":[
+        "Abu Baham"
+    ],
     "name:und_x_variant":[
         "Ab\u016b Bah\u0101m"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293462323,
-    "wof:lastmodified":1537587821,
+    "wof:lastmodified":1564178296,
     "wof:name":"Abu Baham",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",

@@ -28,10 +28,25 @@
     "name:ara_x_preferred":[
         "\u0628\u064e\u0646\u0650\u064a \u062c\u064e\u0645\u0652\u0631\u064e\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0646\u064a \u062c\u0645\u0631\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06cc \u062c\u0645\u0631\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Bani Jamra"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0ba9\u0bbf \u0b9c\u0bae\u0bcd\u0bb0\u0bbe"
+    ],
     "name:und_x_variant":[
         "Jamra",
         "Jamrah",
         "Ban\u012b Jamrah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06cc \u062c\u0645\u0631\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1360150301,
-    "wof:lastmodified":1537587817,
+    "wof:lastmodified":1564178303,
     "wof:name":"Bani Jamrah",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",
