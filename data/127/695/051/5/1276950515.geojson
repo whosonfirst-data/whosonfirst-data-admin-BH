@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "Jurd\u0101b"
     ],
+    "name:nno_x_preferred":[
+        "Jurdab"
+    ],
     "name:und_x_variant":[
         "Jurdah"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276950515,
-    "wof:lastmodified":1537587815,
+    "wof:lastmodified":1564178298,
     "wof:name":"Jurdab",
     "wof:parent_id":85669049,
     "wof:placetype":"locality",

@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0628\u064f\u0648 \u0642\u064f\u0648\u0648\u064e\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648 \u0642\u0648\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648 \u0642\u0648\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Bu Quwah"
+    ],
     "name:und_x_variant":[
         "B\u016b Quwwah",
         "Bukuwa",
         "B\u016b Q\u016bwah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648 \u0642\u0648\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1360199615,
-    "wof:lastmodified":1537587817,
+    "wof:lastmodified":1564178304,
     "wof:name":"Bu Quwah",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

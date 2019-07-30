@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0652\u062d\u064e\u062c\u064e\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Al Hajar"
+    ],
     "name:und_x_variant":[
         "Hajar",
         "Al \u1e28ajar"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1193026413,
-    "wof:lastmodified":1537587820,
+    "wof:lastmodified":1564178301,
     "wof:name":"Al Hajar",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

@@ -31,6 +31,48 @@
     "name:ara_x_variant":[
         "B\u016br\u012b"
     ],
+    "name:bos_x_preferred":[
+        "Buri"
+    ],
+    "name:cat_x_preferred":[
+        "Buri"
+    ],
+    "name:ceb_x_preferred":[
+        "Buri"
+    ],
+    "name:deu_x_preferred":[
+        "Buri"
+    ],
+    "name:fra_x_preferred":[
+        "Buri"
+    ],
+    "name:hrv_x_preferred":[
+        "Buri"
+    ],
+    "name:ita_x_preferred":[
+        "Buri"
+    ],
+    "name:lav_x_preferred":[
+        "B\u016bri"
+    ],
+    "name:nld_x_preferred":[
+        "Buri"
+    ],
+    "name:pol_x_preferred":[
+        "Buri"
+    ],
+    "name:ron_x_preferred":[
+        "Buri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Buri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1293113697,
-    "wof:lastmodified":1537587816,
+    "wof:lastmodified":1564178297,
     "wof:name":"Buri",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",
