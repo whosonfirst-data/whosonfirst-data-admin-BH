@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MU"
+    ],
     "lbl:latitude":26.265163,
     "lbl:longitude":50.643531,
     "mps:latitude":26.265163,
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563331406,
+    "wof:lastmodified":1565654137,
     "wof:name":"Muharraq",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

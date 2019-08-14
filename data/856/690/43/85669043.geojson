@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NN"
+    ],
     "lbl:latitude":26.188884,
     "lbl:longitude":50.494074,
     "mps:latitude":26.188884,
@@ -263,7 +266,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563331407,
+    "wof:lastmodified":1565654137,
     "wof:name":"Northern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

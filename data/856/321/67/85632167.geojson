@@ -14,6 +14,9 @@
     "itu:country_code":[
         "973"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BH"
+    ],
     "lbl:latitude":26.0845,
     "lbl:longitude":50.550672,
     "mps:latitude":26.0845,
@@ -1068,7 +1071,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563331412,
+    "wof:lastmodified":1565654138,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

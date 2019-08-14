@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CP"
+    ],
     "lbl:latitude":26.219616,
     "lbl:longitude":50.581836,
     "mps:latitude":26.219616,
@@ -272,7 +275,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563331408,
+    "wof:lastmodified":1565654137,
     "wof:name":"Capital",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

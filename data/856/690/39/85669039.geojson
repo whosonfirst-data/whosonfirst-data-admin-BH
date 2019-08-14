@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
+    ],
     "lbl:latitude":25.991289,
     "lbl:longitude":50.545143,
     "mps:latitude":25.991289,
@@ -249,7 +252,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563331408,
+    "wof:lastmodified":1565654137,
     "wof:name":"Southern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",
