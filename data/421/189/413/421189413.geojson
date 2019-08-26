@@ -10,13 +10,17 @@
     "geom:latitude":26.18333,
     "geom:longitude":50.55,
     "iso:country":"BH",
+    "lbl:bbox":"50.53,26.16333,50.57,26.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0652\u0647\u064f\u062c\u064e\u064a\u0652\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hujair"
     ],
     "qs:gn_country":"BH",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":290356,
         "gp:id":1966959,
-        "qs:id":44474
+        "qs_pg:id":44474
     },
     "wof:country":"BH",
     "wof:created":1459009624,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421189413,
-    "wof:lastmodified":1551820707,
+    "wof:lastmodified":1566614348,
     "wof:name":"Al Hujayr",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",

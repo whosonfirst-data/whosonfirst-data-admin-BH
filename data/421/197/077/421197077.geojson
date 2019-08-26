@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.5888,26.218354,50.5888,26.218354",
     "geom:latitude":26.218354,
     "geom:longitude":50.5888,
     "iso:country":"BH",
+    "lbl:bbox":"50.5838,26.213354,50.5938,26.223354",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927360,
-        "qs:id":1295833
+        "qs_pg:id":1295833
     },
     "wof:country":"BH",
     "wof:created":1459009902,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421197077,
-    "wof:lastmodified":1531858747,
+    "wof:lastmodified":1566614351,
     "wof:name":"Adliya-block 326",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

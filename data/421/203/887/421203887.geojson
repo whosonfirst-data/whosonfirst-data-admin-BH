@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.61917,26.24444,50.61917,26.24444",
     "geom:latitude":26.24444,
     "geom:longitude":50.61917,
     "iso:country":"BH",
+    "lbl:bbox":"50.61417,26.23944,50.62417,26.24944",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u064e\u0627\u0644\u064e\u0629 \u0623\u064e\u0628\u064f\u0648 \u0645\u064e\u0627\u0647\u0650\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ab\u016b M\u0101hir"
     ],
     "qs:gn_country":"BH",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":290253,
         "gp:id":1967005,
-        "qs:id":235477
+        "qs_pg:id":235477
     },
     "wof:country":"BH",
     "wof:created":1459010167,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421203887,
-    "wof:lastmodified":1531858834,
+    "wof:lastmodified":1566614348,
     "wof:name":"H\u0327\u0101lat Ab\u016b M\u0101hir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

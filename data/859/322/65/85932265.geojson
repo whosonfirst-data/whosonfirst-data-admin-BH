@@ -11,8 +11,10 @@
     "geom:longitude":50.610494,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.605494,26.21168,50.615494,26.22168",
     "lbl:latitude":26.21668,
     "lbl:longitude":50.610494,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.217506,
     "mps:longitude":50.613338,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Block 324"
-    ],
-    "name:unk_x_variant":[
-        "\u0645\u062c\u0645\u0639 324"
     ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_id":0,
@@ -63,8 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927422,
-        "qs:id":888409,
         "qs_pg:id":888409
     },
     "wof:country":"BH",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551820709,
+    "wof:lastmodified":1566614337,
     "wof:name":"\u0645\u062c\u0645\u0639 324",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

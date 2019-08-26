@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.4985805,26.2326085,50.4985805,26.2326085",
     "geom:latitude":26.232609,
     "geom:longitude":50.498581,
     "iso:country":"BH",
+    "lbl:bbox":"50.4785805,26.2126085,50.5185805,26.2526085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1967016,
-        "qs:id":1016315
+        "qs_pg:id":1016315
     },
     "wof:country":"BH",
     "wof:created":1459009428,
-    "wof:geomhash":"69156128f3ecff99e46b22fa850ae163",
+    "wof:geomhash":"62f1a184c9f9bf8d6bf4631724c8bc3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421184983,
-    "wof:lastmodified":1466635860,
+    "wof:lastmodified":1566614351,
     "wof:name":"\u062c\u0646\u0648\u0633\u0627\u0646",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

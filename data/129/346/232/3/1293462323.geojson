@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bahrain",
     "iso:country":"BH",
+    "lbl:bbox":"50.52417,26.1875,50.56417,26.2275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u064e\u0628\u064f\u0648 \u0628\u064e\u0647\u064e\u0627\u0645"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293462323,
-    "wof:lastmodified":1564178296,
+    "wof:lastmodified":1566614341,
     "wof:name":"Abu Baham",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",

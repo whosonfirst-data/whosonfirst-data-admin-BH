@@ -11,8 +11,10 @@
     "geom:longitude":50.506899,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.501899,26.230171,50.511899,26.240171",
     "lbl:latitude":26.235171,
     "lbl:longitude":50.506899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.236204,
     "mps:longitude":50.504319,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Karrana-block 460"
-    ],
-    "name:unk_x_variant":[
         "Karrana-block 460"
     ],
     "qs:gn_adm0_cc":"BH",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -68,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927311,
-        "qs:id":1295834,
         "qs_pg:id":1295834
     },
     "wof:country":"BH",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551820693,
+    "wof:lastmodified":1566614337,
     "wof:name":"Karrana-block 460",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

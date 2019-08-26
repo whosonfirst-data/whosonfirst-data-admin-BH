@@ -11,8 +11,10 @@
     "geom:longitude":50.597415,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.592415,26.235974,50.602415,26.245974",
     "lbl:latitude":26.240974,
     "lbl:longitude":50.597415,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.238299,
     "mps:longitude":50.600599,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Block 322"
-    ],
-    "name:unk_x_variant":[
-        "\u0645\u062c\u0645\u0639 322"
     ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_id":0,
@@ -63,8 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927267,
-        "qs:id":1090202,
         "qs_pg:id":1090202
     },
     "wof:country":"BH",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551820709,
+    "wof:lastmodified":1566614339,
     "wof:name":"\u0645\u062c\u0645\u0639 322",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

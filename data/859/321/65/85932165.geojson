@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6438717.027859,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.462618,26.18121,50.462618,26.18121",
     "geom:latitude":26.18121,
     "geom:longitude":50.462618,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.457618,26.17621,50.467618,26.18621",
     "lbl:latitude":26.18121,
     "lbl:longitude":50.462618,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.177623,
     "mps:longitude":50.461175,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Janabiah-block 569"
-    ],
-    "name:unk_x_variant":[
         "Janabiah-block 569"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927220,
-        "qs:id":249377,
         "qs_pg:id":249377
     },
     "wof:country":"BH",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939462,
+    "wof:lastmodified":1566614339,
     "wof:name":"Janabiah-block 569",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

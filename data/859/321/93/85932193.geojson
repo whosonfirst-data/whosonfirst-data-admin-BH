@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2051521.770007,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.522461,26.241694,50.522461,26.241694",
     "geom:latitude":26.241694,
     "geom:longitude":50.522461,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.517461,26.236694,50.527461,26.246694",
     "lbl:latitude":26.241694,
     "lbl:longitude":50.522461,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.24543,
     "mps:longitude":50.51852,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Karbabad-block 436"
-    ],
-    "name:unk_x_variant":[
         "Karbabad-block 436"
     ],
     "qs:gn_adm0_cc":"BH",
@@ -58,13 +57,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927284,
-        "qs:id":1332735,
         "qs_pg:id":1332735
     },
     "wof:country":"BH",
@@ -82,7 +79,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939467,
+    "wof:lastmodified":1566614338,
     "wof:name":"Karbabad-block 436",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

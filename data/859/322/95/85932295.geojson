@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2933351.077886,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.619507,26.276176,50.619507,26.276176",
     "geom:latitude":26.276176,
     "geom:longitude":50.619507,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.614507,26.271176,50.624507,26.281176",
     "lbl:latitude":26.276176,
     "lbl:longitude":50.619507,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.279401,
     "mps:longitude":50.61673,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Muharraq City-block 224"
-    ],
-    "name:unk_x_variant":[
         "Muharraq City-block 224"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927464,
-        "qs:id":991485,
         "qs_pg:id":991485
     },
     "wof:country":"BH",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939484,
+    "wof:lastmodified":1566614335,
     "wof:name":"Muharraq City-block 224",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

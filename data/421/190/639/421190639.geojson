@@ -10,8 +10,12 @@
     "geom:latitude":26.132323,
     "geom:longitude":50.519943,
     "iso:country":"BH",
+    "lbl:bbox":"50.499943,26.112323,50.539943,26.152323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1966979,
-        "qs:id":1119963
+        "qs_pg:id":1119963
     },
     "wof:country":"BH",
     "wof:created":1459009664,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421190639,
-    "wof:lastmodified":1551820680,
+    "wof:lastmodified":1566614350,
     "wof:name":"\u0639\u0627\u0644\u064a",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

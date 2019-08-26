@@ -11,8 +11,10 @@
     "geom:longitude":50.597191,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.592191,26.256487,50.602191,26.266487",
     "lbl:latitude":26.261487,
     "lbl:longitude":50.597191,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.268911,
     "mps:longitude":50.592761,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Busaytin-block 228"
-    ],
-    "name:unk_x_variant":[
         "Busaytin-block 228"
     ],
     "qs:gn_id":0,
@@ -55,8 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -65,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927197,
-        "qs:id":986742,
         "qs_pg:id":986742
     },
     "wof:country":"BH",
@@ -83,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551820717,
+    "wof:lastmodified":1566614338,
     "wof:name":"Busaytin-block 228",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

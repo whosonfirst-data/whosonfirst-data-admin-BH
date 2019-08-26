@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4662231.829338,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.443726,26.212128,50.443726,26.212128",
     "geom:latitude":26.212128,
     "geom:longitude":50.443726,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.438726,26.207128,50.448726,26.217128",
     "lbl:latitude":26.212128,
     "lbl:longitude":50.443726,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.212127,
     "mps:longitude":50.443726,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Budaiya-block 559"
-    ],
-    "name:unk_x_variant":[
         "Budaiya-block 559"
     ],
     "qs:gn_id":0,
@@ -55,13 +54,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927348,
-        "qs:id":406178,
         "qs_pg:id":406178
     },
     "wof:country":"BH",
@@ -79,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939472,
+    "wof:lastmodified":1566614336,
     "wof:name":"Budaiya-block 559",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

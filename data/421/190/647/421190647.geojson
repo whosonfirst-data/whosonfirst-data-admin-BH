@@ -11,10 +11,12 @@
     "geom:longitude":50.586306,
     "gn:country":"BH",
     "gn:fcode":"PPLC",
-    "gn:pop":147074,
+    "gn:population":147074,
     "iso:country":"BH",
     "lbl:latitude":26.219695,
     "lbl:longitude":50.58573,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":26.219695,
     "mps:longitude":50.58573,
     "mz:hierarchy_label":1,
@@ -423,7 +425,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Man\u0101mah"
     ],
     "name:urd_x_preferred":[
@@ -588,12 +590,12 @@
     "wof:concordances":{
         "gn:id":290340,
         "gp:id":1967057,
-        "qs:id":1119971,
+        "qs_pg:id":1119971,
         "wd:id":"Q3882",
         "wk:page":"Manama"
     },
     "wof:concordances_alt":{
-        "qs:id":273762
+        "qs_pg:id":273762
     },
     "wof:country":"BH",
     "wof:created":1459009664,
@@ -607,7 +609,7 @@
         }
     ],
     "wof:id":421190647,
-    "wof:lastmodified":1563331429,
+    "wof:lastmodified":1566614350,
     "wof:name":"Manama",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",

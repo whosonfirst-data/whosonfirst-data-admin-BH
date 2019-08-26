@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":548089.346798,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.576273,26.231597,50.576273,26.231597",
     "geom:latitude":26.231597,
     "geom:longitude":50.576273,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.571273,26.226597,50.581273,26.236597",
     "lbl:latitude":26.231597,
     "lbl:longitude":50.576273,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.231995,
     "mps:longitude":50.577779,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Al Mukharqa"
-    ],
-    "name:unk_x_variant":[
         "Al Mukharqa"
     ],
     "qs:gn_adm0_cc":"BH",
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -65,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725913,
-        "qs:id":237766,
         "qs_pg:id":237766
     },
     "wof:country":"BH",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936550,
+    "wof:lastmodified":1566614338,
     "wof:name":"Al Mukharqa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

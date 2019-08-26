@@ -10,8 +10,12 @@
     "geom:latitude":26.15472,
     "geom:longitude":50.62056,
     "iso:country":"BH",
+    "lbl:bbox":"50.60056,26.13472,50.64056,26.17472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0650\u062a\u0652\u0631\u064e\u0629"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Sitrah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sitra"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":290104,
         "gp:id":1967048,
-        "qs:id":911407,
+        "qs_pg:id":911407,
         "wd:id":"Q21052927"
     },
     "wof:country":"BH",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421174979,
-    "wof:lastmodified":1563331424,
+    "wof:lastmodified":1566614348,
     "wof:name":"Sitrah",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":26.06861,
     "geom:longitude":50.50389,
     "iso:country":"BH",
+    "lbl:bbox":"50.48389,26.04861,50.52389,26.08861",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u064e\u0627\u0631 \u0643\u064f\u0644\u064e\u064a\u0652\u0628"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "D\u0101r Kulayb"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u0101r Kulaib"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":290269,
         "gp:id":1967002,
-        "qs:id":317263,
+        "qs_pg:id":317263,
         "wd:id":"Q5221908",
         "wk:page":"Dar Kulaib"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421174137,
-    "wof:lastmodified":1563331425,
+    "wof:lastmodified":1566614348,
     "wof:name":"\u062f\u0627\u0631 \u0643\u0644\u064a\u0628",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",
