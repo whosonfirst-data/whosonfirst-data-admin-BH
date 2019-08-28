@@ -11,8 +11,10 @@
     "geom:longitude":50.608978,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.603978,26.195901,50.613978,26.205901",
     "lbl:latitude":26.200901,
     "lbl:longitude":50.608978,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.197199,
     "mps:longitude":50.607797,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Al-Djufayr",
         "Jafair",
         "Jufair"
-    ],
-    "name:unk_x_variant":[
-        "\u062c\u0641\u064a\u0631"
     ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_id":0,
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1966963,
-        "qs:id":1119964,
         "qs_pg:id":1119964
     },
     "wof:country":"BH",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551820708,
+    "wof:lastmodified":1566614335,
     "wof:name":"\u062c\u0641\u064a\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

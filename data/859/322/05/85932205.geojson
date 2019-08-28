@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3464610.878732,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.506897,26.083921,50.506897,26.083921",
     "geom:latitude":26.083921,
     "geom:longitude":50.506897,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.501897,26.078921,50.511897,26.088921",
     "lbl:latitude":26.083921,
     "lbl:longitude":50.506897,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.083855,
     "mps:longitude":50.506897,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Wadi-block 1211"
-    ],
-    "name:unk_x_variant":[
         "Wadi-block 1211"
     ],
     "qs:gn_adm0_cc":"BH",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927321,
-        "qs:id":991480,
         "qs_pg:id":991480
     },
     "wof:country":"BH",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939469,
+    "wof:lastmodified":1566614336,
     "wof:name":"Wadi-block 1211",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

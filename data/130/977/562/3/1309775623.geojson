@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bahrain",
     "iso:country":"BH",
+    "lbl:bbox":"50.53333,26.16194,50.57333,26.20194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0652\u062c\u064f\u0628\u064e\u064a\u0652\u0644\u0627\u064e\u062a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309775623,
-    "wof:lastmodified":1537587820,
+    "wof:lastmodified":1566614346,
     "wof:name":"Al Jubaylat",
     "wof:parent_id":85669049,
     "wof:placetype":"locality",

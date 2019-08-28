@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bahrain",
     "iso:country":"BH",
+    "lbl:bbox":"50.46083,26.20944,50.50083,26.24944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064e\u0627\u0631\u0652\u0628\u064e\u0627\u0631"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1360004453,
-    "wof:lastmodified":1564178304,
+    "wof:lastmodified":1566614346,
     "wof:name":"Barbar",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

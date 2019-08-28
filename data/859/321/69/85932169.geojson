@@ -11,8 +11,10 @@
     "geom:longitude":50.539339,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.534339,26.231411,50.544339,26.241411",
     "lbl:latitude":26.236411,
     "lbl:longitude":50.539339,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.245679,
     "mps:longitude":50.539765,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Block 428",
         "Seef-block 428"
-    ],
-    "name:unk_x_variant":[
-        "\u0645\u062c\u0645\u0639 428"
     ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_id":0,
@@ -66,8 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -76,7 +74,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927221,
-        "qs:id":18220,
         "qs_pg:id":18220
     },
     "wof:country":"BH",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551820709,
+    "wof:lastmodified":1566614338,
     "wof:name":"\u0645\u062c\u0645\u0639 428",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":26.13,
     "geom:longitude":50.555,
     "iso:country":"BH",
+    "lbl:bbox":"50.535,26.11,50.575,26.15",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0631\u0650\u0651\u0641\u064e\u0627\u0639"
@@ -161,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0444\u0444\u0430"
     ],
-    "name:unk_x_variant":[
-        "Riffa"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0641\u0627\u0639"
     ],
@@ -202,7 +203,7 @@
     "wof:concordances":{
         "gn:id":385038,
         "gp:id":1967060,
-        "qs:id":1168222,
+        "qs_pg:id":1168222,
         "wd:id":"Q1771398",
         "wk:page":"Riffa"
     },
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":421192451,
-    "wof:lastmodified":1563331422,
+    "wof:lastmodified":1566614347,
     "wof:name":"Ar Rifa",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",

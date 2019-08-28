@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bahrain",
     "iso:country":"BH",
+    "lbl:bbox":"50.51861,26.085,50.55861,26.125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u064e\u0627\u0641\u0650\u0631\u064e\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293847503,
-    "wof:lastmodified":1537587813,
+    "wof:lastmodified":1566614341,
     "wof:name":"Safirah",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",

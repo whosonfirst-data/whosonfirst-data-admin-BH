@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14737052.137789,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.619324,26.056289,50.619324,26.056289",
     "geom:latitude":26.056289,
     "geom:longitude":50.619324,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.614324,26.051289,50.624324,26.061289",
     "lbl:latitude":26.056289,
     "lbl:longitude":50.619324,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.055847,
     "mps:longitude":50.616717,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Askar-block 950"
-    ],
-    "name:unk_x_variant":[
         "Askar-block 950"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -64,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927480,
-        "qs:id":128088,
         "qs_pg:id":128088
     },
     "wof:country":"BH",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939486,
+    "wof:lastmodified":1566614335,
     "wof:name":"Askar-block 950",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

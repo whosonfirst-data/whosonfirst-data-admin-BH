@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1719465.324501,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.582036,26.239337,50.582036,26.239337",
     "geom:latitude":26.239337,
     "geom:longitude":50.582036,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.577036,26.234337,50.587036,26.244337",
     "lbl:latitude":26.239337,
     "lbl:longitude":50.582036,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.248524,
     "mps:longitude":50.577019,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Block 316"
-    ],
-    "name:unk_x_variant":[
-        "\u0645\u062c\u0645\u0639 316"
     ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_id":0,
@@ -63,8 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927449,
-        "qs:id":212601,
         "qs_pg:id":212601
     },
     "wof:country":"BH",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939482,
+    "wof:lastmodified":1566614336,
     "wof:name":"\u0645\u062c\u0645\u0639 316",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

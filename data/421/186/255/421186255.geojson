@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.568866,26.221829,50.568866,26.221829",
     "geom:latitude":26.221829,
     "geom:longitude":50.568866,
     "iso:country":"BH",
+    "lbl:bbox":"50.563866,26.216829,50.573866,26.226829",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725917,
-        "qs:id":1062862
+        "qs_pg:id":1062862
     },
     "wof:country":"BH",
     "wof:created":1459009475,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421186255,
-    "wof:lastmodified":1531858597,
+    "wof:lastmodified":1566614349,
     "wof:name":"\u0627\u0644\u0633\u0644\u0645\u0627\u0646\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

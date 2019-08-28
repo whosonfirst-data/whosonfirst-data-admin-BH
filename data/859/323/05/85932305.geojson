@@ -11,8 +11,10 @@
     "geom:longitude":50.66416,
     "gn:id":"",
     "iso:country":"BH",
+    "lbl:bbox":"50.65916,26.285318,50.66916,26.295318",
     "lbl:latitude":26.290318,
     "lbl:longitude":50.66416,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.288584,
     "mps:longitude":50.663137,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Galali-block 255"
-    ],
-    "name:unk_x_variant":[
         "Galali-block 255"
     ],
     "qs:gn_id":0,
@@ -55,8 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -65,7 +63,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927469,
-        "qs:id":1295837,
         "qs_pg:id":1295837
     },
     "wof:country":"BH",
@@ -83,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1551820717,
+    "wof:lastmodified":1566614335,
     "wof:name":"Galali-block 255",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

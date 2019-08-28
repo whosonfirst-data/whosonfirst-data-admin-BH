@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":26.188884,
     "lbl:longitude":50.494074,
+    "lbl:min_zoom":8.0,
     "mps:latitude":26.188884,
     "mps:longitude":50.494074,
     "mz:hierarchy_label":1,
@@ -136,7 +137,7 @@
     "name:tur_x_preferred":[
         "Kuzey Valili\u011fi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "al Mu\u1e29\u0101faz\u0327ah Ash Sham\u0101l\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -218,9 +219,8 @@
         "quattroshapes"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
-    "src:population:date":"",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -246,7 +246,7 @@
         "gp:id":56051603,
         "hasc:id":"BH.NN",
         "iso:id":"BH-17",
-        "qs:id":483133,
+        "qs_pg:id":483133,
         "unlc:id":"BH-17",
         "wd:id":"Q840445"
     },
@@ -266,7 +266,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565654137,
+    "wof:lastmodified":1566614339,
     "wof:name":"Northern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

@@ -12,8 +12,10 @@
     "gn:latitude":26.20549,
     "gn:longitude":50.602,
     "iso:country":"BH",
+    "lbl:bbox":"50.584294,26.187411,50.594294,26.197411",
     "lbl:latitude":26.192411,
     "lbl:longitude":50.589294,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.189909,
     "mps:longitude":50.588636,
     "mz:hierarchy_label":0,
@@ -41,10 +43,6 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u063a\u0631\u06cc\u0641\u0647"
-    ],
-    "name:unk_x_variant":[
-        "Ghurayfah",
-        "Al Ghurayfah"
     ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_fcode":"PPLX",
@@ -74,8 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -85,7 +82,6 @@
     "wof:concordances":{
         "gn:id":290364,
         "gp:id":1966955,
-        "qs:id":235482,
         "qs_pg:id":235482,
         "wd:id":"Q12190722",
         "wk:page":"Ghuraifa"
@@ -105,7 +101,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563331398,
+    "wof:lastmodified":1566614334,
     "wof:name":"Al Ghurayfah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
