@@ -260,6 +260,9 @@
         "wd:id":"Q528953"
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38d16f59a700e602393b3433d7366fc9",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566614340,
+    "wof:lastmodified":1582345713,
     "wof:name":"Capital",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

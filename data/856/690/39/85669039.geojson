@@ -237,6 +237,9 @@
         "wd:id":"Q838532"
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d15463623c512a65f824538b04c380f4",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566614340,
+    "wof:lastmodified":1582345713,
     "wof:name":"Southern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

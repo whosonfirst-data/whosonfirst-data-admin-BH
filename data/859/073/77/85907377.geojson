@@ -67,6 +67,10 @@
         "qs_pg:id":347081
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa71836d869438f0f879678505ec192b",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566614338,
+    "wof:lastmodified":1582345712,
     "wof:name":"As Saqiyyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
