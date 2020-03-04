@@ -81,6 +81,10 @@
         "qs_pg:id":44475
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27daff525a2f9e18cc36ecd4cdd1dc49",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566614335,
+    "wof:lastmodified":1582345711,
     "wof:name":"Jabalat al Burh\u00e5mah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

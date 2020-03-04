@@ -77,6 +77,10 @@
         "qs_pg:id":1086009
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25cfd59924746519fef7db61aa8ad600",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566614338,
+    "wof:lastmodified":1582345712,
     "wof:name":"Al Qudaybiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

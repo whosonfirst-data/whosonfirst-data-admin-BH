@@ -294,6 +294,9 @@
         "wd:id":"Q375630"
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f7d34b93b7b88f3de969de715e68855",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566614339,
+    "wof:lastmodified":1582345713,
     "wof:name":"Muharraq",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

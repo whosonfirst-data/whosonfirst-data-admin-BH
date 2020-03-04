@@ -1052,6 +1052,11 @@
     },
     "wof:country":"BH",
     "wof:country_alpha3":"BHR",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ce621faa66431a5e1a5ce27ef121e432",
     "wof:hierarchy":[
         {
@@ -1066,7 +1071,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566614340,
+    "wof:lastmodified":1583224613,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

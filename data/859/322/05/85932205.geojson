@@ -69,6 +69,10 @@
         "qs_pg:id":991480
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4d3484fd60c472a7ae5a15565082ee0",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614336,
+    "wof:lastmodified":1582345712,
     "wof:name":"Wadi-block 1211",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

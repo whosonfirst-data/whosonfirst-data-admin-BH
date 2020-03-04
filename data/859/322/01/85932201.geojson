@@ -70,6 +70,10 @@
         "qs_pg:id":1295834
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e526256d94d0696477087af26dfaedd",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614337,
+    "wof:lastmodified":1582345712,
     "wof:name":"Karrana-block 460",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -74,6 +74,10 @@
         "qs_pg:id":1090202
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40d4945ed475a17531c4d51f75019d21",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566614339,
+    "wof:lastmodified":1582345713,
     "wof:name":"\u0645\u062c\u0645\u0639 322",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

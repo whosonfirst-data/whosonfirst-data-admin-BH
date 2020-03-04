@@ -66,6 +66,10 @@
         "qs_pg:id":991484
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3458ecb9739dff72be965092f7bfbfed",
     "wof:hierarchy":[
         {
@@ -80,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614337,
+    "wof:lastmodified":1582345712,
     "wof:name":"Malkiya-block 1033",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

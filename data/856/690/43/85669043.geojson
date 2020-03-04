@@ -251,6 +251,9 @@
         "wd:id":"Q840445"
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d92649a7004e1f838e92e107e6735afc",
     "wof:hierarchy":[
         {
@@ -266,7 +269,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566614339,
+    "wof:lastmodified":1582345713,
     "wof:name":"Northern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

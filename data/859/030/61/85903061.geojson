@@ -87,6 +87,10 @@
         "wk:page":"Ghuraifa"
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1684235b973bc76d7bb11386b99921b6",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566614334,
+    "wof:lastmodified":1582345711,
     "wof:name":"Al Ghurayfah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

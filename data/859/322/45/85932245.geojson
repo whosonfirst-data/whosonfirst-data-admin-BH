@@ -69,6 +69,10 @@
         "qs_pg:id":523517
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6750a3a6611ad87b219f7e0ea8a85ae7",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614336,
+    "wof:lastmodified":1582345712,
     "wof:name":"Maameer-block 635",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

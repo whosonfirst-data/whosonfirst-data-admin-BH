@@ -62,6 +62,10 @@
         "qs_pg:id":996313
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2def32d0bc986aa183a53fc6b58bdd8",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614337,
+    "wof:lastmodified":1582345712,
     "wof:name":"Halat Naim-block 248",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

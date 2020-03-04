@@ -66,6 +66,10 @@
         "qs_pg:id":991481
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2480bfabf6b9ad6c8cb32b70b7feaa2",
     "wof:hierarchy":[
         {
@@ -80,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614338,
+    "wof:lastmodified":1582345712,
     "wof:name":"East Riffa-block 901",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

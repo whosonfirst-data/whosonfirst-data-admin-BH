@@ -65,6 +65,10 @@
         "qs_pg:id":1332735
     },
     "wof:country":"BH",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"527d1dc0b9e61664664342e1e4ffbed6",
     "wof:hierarchy":[
         {
@@ -79,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614338,
+    "wof:lastmodified":1582345712,
     "wof:name":"Karbabad-block 436",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
