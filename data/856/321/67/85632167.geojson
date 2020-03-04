@@ -997,7 +997,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "quattroshapes"
     ],
     "src:geom_via":"us-dshiu",
@@ -1072,7 +1071,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582345713,
+    "wof:lastmodified":1583224613,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
