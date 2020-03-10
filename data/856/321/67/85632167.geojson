@@ -1029,9 +1029,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Bahrain",
-        "digitalenvoy:country_code":[
-            48
-        ],
+        "digitalenvoy:country_code":48,
         "fb:id":"en.bahrain",
         "fifa:id":"BHR",
         "fips:code":"BA",
@@ -1074,7 +1072,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529080,
+    "wof:lastmodified":1583797283,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
