@@ -285,9 +285,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28674
-        ],
+        "digitalenvoy:region_code":28674,
         "fips:code":"BA15",
         "gn:id":290333,
         "gp:id":2344724,
@@ -315,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538234,
+    "wof:lastmodified":1583882703,
     "wof:name":"Muharraq",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

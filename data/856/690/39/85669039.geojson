@@ -228,9 +228,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28675
-        ],
+        "digitalenvoy:region_code":28675,
         "fips:code":"BA17",
         "gn:id":7090972,
         "gp:id":56051602,
@@ -258,7 +256,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538234,
+    "wof:lastmodified":1583882703,
     "wof:name":"Southern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

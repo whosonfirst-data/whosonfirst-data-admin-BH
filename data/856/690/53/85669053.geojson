@@ -250,9 +250,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25180
-        ],
+        "digitalenvoy:region_code":25180,
         "fips:code":"BA16",
         "gn:id":7090954,
         "gp:id":2344720,
@@ -281,7 +279,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882703,
     "wof:name":"Capital",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

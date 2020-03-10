@@ -241,9 +241,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28676
-        ],
+        "digitalenvoy:region_code":28676,
         "fips:code":"BA18",
         "gn:id":7090974,
         "gp:id":56051603,
@@ -272,7 +270,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538234,
+    "wof:lastmodified":1583882703,
     "wof:name":"Northern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",
