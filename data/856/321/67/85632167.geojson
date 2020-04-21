@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070331,
-    "geom:area_square_m":781291090.309716,
+    "geom:area_square_m":781290976.824922,
     "geom:bbox":"50.310047,25.55625,50.82486,26.331343",
     "geom:latitude":26.051802,
     "geom:longitude":50.564827,
@@ -64,6 +64,9 @@
     ],
     "name:arg_x_preferred":[
         "Bahrein"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u0628\u062d\u0631\u064a\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
@@ -192,6 +195,12 @@
     "name:dan_x_preferred":[
         "Bahrain"
     ],
+    "name:deu_at_x_preferred":[
+        "Bahrain"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Bahrain"
+    ],
     "name:deu_x_preferred":[
         "Bahrain"
     ],
@@ -218,6 +227,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03c7\u03c1\u03ad\u03b9\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Bahrain"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Bahrain"
     ],
     "name:eng_x_preferred":[
         "Bahrain"
@@ -282,6 +297,9 @@
     ],
     "name:gag_x_preferred":[
         "Bahreyn"
+    ],
+    "name:gcr_x_preferred":[
+        "Bar\u00e9yn"
     ],
     "name:gla_x_preferred":[
         "Bachrain"
@@ -362,6 +380,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0570\u0580\u0565\u0575\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0570\u0580\u0567\u0575\u0576"
+    ],
     "name:ido_x_preferred":[
         "Bahrain"
     ],
@@ -409,6 +430,9 @@
     ],
     "name:kab_x_preferred":[
         "Ba\u1e25rayn"
+    ],
+    "name:kab_x_variant":[
+        "Be\u1e25rin"
     ],
     "name:kal_x_preferred":[
         "Bahrain"
@@ -469,6 +493,9 @@
     ],
     "name:lao_x_preferred":[
         "\u0e9a\u0eb2\u0ec0\u0ea5\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0e9a\u0eb2\u0ec0\u0ea3\u0e99"
     ],
     "name:lat_x_preferred":[
         "Baharina"
@@ -567,6 +594,9 @@
     "name:mya_x_variant":[
         "\u1018\u102c\u101b\u102d\u1014\u103a\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0411\u0430\u0445\u0440\u0435\u0439\u043d \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u0628\u062d\u0631\u06cc\u0646"
     ],
@@ -661,6 +691,9 @@
     "name:pol_x_preferred":[
         "Bahrajn"
     ],
+    "name:por_br_x_preferred":[
+        "Barein"
+    ],
     "name:por_x_colloquial":[
         "Barem"
     ],
@@ -707,6 +740,9 @@
     ],
     "name:san_x_preferred":[
         "\u092c\u0939\u0930\u0948\u0928"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5f\u1c66\u1c5a\u1c68\u1c5f\u1c6d\u1c64\u1c71"
     ],
     "name:scn_x_preferred":[
         "Bahrain"
@@ -757,6 +793,15 @@
     "name:sqi_x_variant":[
         "Bahrein"
     ],
+    "name:srd_x_preferred":[
+        "Bahrein"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0411\u0430\u0445\u0440\u0435\u0438\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Bahrein"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0445\u0440\u0435\u0438\u043d"
     ],
@@ -780,6 +825,9 @@
     ],
     "name:szl_x_preferred":[
         "Bahrajn"
+    ],
+    "name:szy_x_preferred":[
+        "Bahrain"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b95\u0bc1\u0bb0\u0bc8\u0ba9\u0bcd"
@@ -1072,7 +1120,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583797283,
+    "wof:lastmodified":1587428021,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
