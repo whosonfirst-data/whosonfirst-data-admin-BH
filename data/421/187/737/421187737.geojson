@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633 \u0631\u0645\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Rumman"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421187737,
-    "wof:lastmodified":1566614348,
-    "wof:name":"\u0631\u0627\u0633 \u0631\u0645\u0627\u0646",
+    "wof:lastmodified":1601423091,
+    "wof:name":"Ras Rumman",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bh",

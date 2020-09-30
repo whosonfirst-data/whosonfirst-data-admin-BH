@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.615386,26.0577845,50.615386,26.0577845",
+    "geom:bbox":"50.615386,26.057785,50.615386,26.057785",
     "geom:latitude":26.057785,
     "geom:longitude":50.615386,
     "iso:country":"BH",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u0643\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Askar"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -48,7 +54,7 @@
     },
     "wof:country":"BH",
     "wof:created":1459009664,
-    "wof:geomhash":"83e7bc902c47898278eeb6973319eabd",
+    "wof:geomhash":"0bad9720543d57b7a83e6ad213a7aa45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421190641,
-    "wof:lastmodified":1566614350,
-    "wof:name":"\u0639\u0633\u0643\u0631",
+    "wof:lastmodified":1601423087,
+    "wof:name":"Askar",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bh",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     50.615386,
-    26.0577845,
+    26.057785,
     50.615386,
-    26.0577845
+    26.057785
 ],
-  "geometry": {"coordinates":[50.615386,26.0577845],"type":"Point"}
+  "geometry": {"coordinates":[50.615386,26.057785],"type":"Point"}
 }

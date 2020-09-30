@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Sanad"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":421190651,
-    "wof:lastmodified":1566614349,
-    "wof:name":"\u0633\u0646\u062f",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Sanad",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bh",
