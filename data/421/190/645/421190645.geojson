@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.5400215,26.1090965,50.5400215,26.1090965",
+    "geom:bbox":"50.540022,26.109096,50.540022,26.109096",
     "geom:latitude":26.109096,
     "geom:longitude":50.540022,
     "iso:country":"BH",
@@ -54,7 +54,7 @@
     },
     "wof:country":"BH",
     "wof:created":1459009664,
-    "wof:geomhash":"8fb4ede9b3b4ba0e8b9afe5ed47ca305",
+    "wof:geomhash":"e2fd626e5e0910a83a3f4a4311aa28fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":421190645,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423092,
     "wof:name":"Riffa West",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",
@@ -74,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.5400215,
-    26.1090965,
-    50.5400215,
-    26.1090965
+    50.540022,
+    26.109096,
+    50.540022,
+    26.109096
 ],
-  "geometry": {"coordinates":[50.5400215,26.1090965],"type":"Point"}
+  "geometry": {"coordinates":[50.540022,26.109096],"type":"Point"}
 }
