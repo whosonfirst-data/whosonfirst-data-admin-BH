@@ -586,7 +586,9 @@
         85669053
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632167,
+    "wof:capital_of":[
+        85632167
+    ],
     "wof:concordances":{
         "gn:id":290340,
         "gp:id":1967057,
@@ -612,7 +614,7 @@
         }
     ],
     "wof:id":421190647,
-    "wof:lastmodified":1593548396,
+    "wof:lastmodified":1607390892,
     "wof:name":"Manama",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",
