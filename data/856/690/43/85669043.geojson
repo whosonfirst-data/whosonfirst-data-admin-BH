@@ -72,6 +72,9 @@
         "Gouvernorat septentrional"
     ],
     "name:hun_x_preferred":[
+        "\u00c9szaki"
+    ],
+    "name:hun_x_variant":[
         "\u00c9szaki korm\u00e1nyz\u00f3s\u00e1g"
     ],
     "name:ind_x_preferred":[
@@ -270,7 +273,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617131349,
+    "wof:lastmodified":1636500647,
     "wof:name":"Northern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",
