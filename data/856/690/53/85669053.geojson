@@ -78,6 +78,9 @@
     "name:fra_x_variant":[
         "Gouvernorat de la capitale"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d1\u05d9\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "F\u0151v\u00e1ros korm\u00e1nyz\u00f3s\u00e1g"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:nld_x_preferred":[
         "Hoofdstad"
+    ],
+    "name:nld_x_variant":[
+        "Hoofdstedelijk gouvernement"
     ],
     "name:nob_x_preferred":[
         "Hovedstadsguvernementet"
@@ -138,8 +144,17 @@
     "name:swe_x_preferred":[
         "Capital Governorate"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bb2\u0bc8\u0ba8\u0b95\u0bb0 \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0448\u043a\u0430\u043b\u0430 \u043c\u0443\u0445\u0430\u0444\u0430\u0437\u0430\u0441\u044b"
+    ],
     "name:tgl_x_preferred":[
         "Kabiserang Gobernasyon"
+    ],
+    "name:tur_x_preferred":[
+        "Ba\u015fkent"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430 \u043c\u0443\u0445\u0430\u0444\u0430\u0437\u0430"
@@ -279,7 +294,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882703,
+    "wof:lastmodified":1690857381,
     "wof:name":"Capital",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

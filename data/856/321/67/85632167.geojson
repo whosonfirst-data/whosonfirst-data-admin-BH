@@ -27,6 +27,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0411\u0430\u04b3\u0440\u0435\u0438\u043d"
+    ],
     "name:ace_x_preferred":[
         "Bahrain"
     ],
@@ -39,6 +42,9 @@
     "name:aka_x_preferred":[
         "Baren"
     ],
+    "name:aka_x_variant":[
+        "Bahrain"
+    ],
     "name:als_x_preferred":[
         "Bahrain"
     ],
@@ -48,8 +54,14 @@
     "name:amh_x_variant":[
         "\u1263\u1205\u122c\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Bahrain"
+    ],
     "name:ang_x_preferred":[
         "Bahrain"
+    ],
+    "name:anp_x_preferred":[
+        "\u092c\u0939\u0930\u0940\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
@@ -81,6 +93,9 @@
         "Bahrein",
         "Ba\u1e25r\u00e9in"
     ],
+    "name:awa_x_preferred":[
+        "\u092c\u0939\u0930\u093e\u0907\u0928"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u062d\u0631\u0626\u06cc\u0646"
     ],
@@ -98,6 +113,9 @@
     ],
     "name:bam_x_preferred":[
         "Bareyini"
+    ],
+    "name:ban_x_preferred":[
+        "Bahrain"
     ],
     "name:bar_x_preferred":[
         "Bahrain"
@@ -183,6 +201,9 @@
     "name:cor_x_preferred":[
         "Bahreyn"
     ],
+    "name:cos_x_preferred":[
+        "Bareine"
+    ],
     "name:crh_x_preferred":[
         "Bahreyn"
     ],
@@ -190,6 +211,9 @@
         "Bahrajn"
     ],
     "name:cym_x_preferred":[
+        "Bahrain"
+    ],
+    "name:dag_x_preferred":[
         "Bahrain"
     ],
     "name:dan_x_preferred":[
@@ -319,6 +343,12 @@
     ],
     "name:gom_x_preferred":[
         "\u092c\u0939\u0930\u0948\u0928"
+    ],
+    "name:gor_x_preferred":[
+        "Bahrain"
+    ],
+    "name:gpe_x_preferred":[
+        "Bahrain"
     ],
     "name:grn_x_preferred":[
         "Var\u00e9\u0129"
@@ -525,6 +555,9 @@
     "name:lit_x_preferred":[
         "Bahreinas"
     ],
+    "name:lld_x_preferred":[
+        "Bahrain"
+    ],
     "name:lmo_x_preferred":[
         "Bahrain"
     ],
@@ -546,6 +579,9 @@
     "name:lzh_x_preferred":[
         "\u5df4\u6797"
     ],
+    "name:mad_x_preferred":[
+        "Bahrain"
+    ],
     "name:mai_x_preferred":[
         "\u092c\u0939\u093e\u0930\u093e\u0907\u0928"
     ],
@@ -560,6 +596,12 @@
     ],
     "name:mar_x_variant":[
         "\u092c\u0939\u093e\u0930\u0940\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u0445\u0440\u044d\u0439\u043d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"
     ],
     "name:min_x_preferred":[
         "Bahrain"
@@ -580,13 +622,23 @@
         "Ba\u0127rejn"
     ],
     "name:mlt_x_variant":[
-        "Ba\u0127rajn"
+        "Ba\u0127rajn",
+        "Bahrain"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd5\uabe5\uabcd\uabd4\uabe6\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"
     ],
+    "name:mri_x_preferred":[
+        "P\u0101reina"
+    ],
     "name:msa_x_preferred":[
         "Bahrain"
+    ],
+    "name:mwl_x_preferred":[
+        "Bahrein"
     ],
     "name:mya_x_preferred":[
         "\u1018\u102c\u101b\u102d\u1014\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -753,6 +805,9 @@
     "name:sgs_x_preferred":[
         "Bahreins"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1015\u1083\u1087\u101b\u1035\u107c\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dc4\u0dbb\u0dda\u0db1\u0dca"
     ],
@@ -765,8 +820,14 @@
     "name:sme_x_preferred":[
         "Bahrain"
     ],
+    "name:smn_x_preferred":[
+        "Bahrain"
+    ],
     "name:smo_x_preferred":[
         "Bahrain"
+    ],
+    "name:sms_x_preferred":[
+        "Bahrainn"
     ],
     "name:sna_x_preferred":[
         "Bahrain"
@@ -839,6 +900,9 @@
     "name:tat_x_preferred":[
         "\u0411\u04d9\u0445\u0440\u04d9\u0439\u043d"
     ],
+    "name:tay_x_preferred":[
+        "Bahrain"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c39\u0c4d\u0c30\u0c2f\u0c3f\u0c28\u0c4d"
     ],
@@ -866,10 +930,16 @@
     "name:tir_x_preferred":[
         "\u1263\u1205\u122c\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Palani"
+    ],
     "name:ton_x_preferred":[
         "Paleini"
     ],
     "name:tpi_x_preferred":[
+        "Bahrain"
+    ],
+    "name:trv_x_preferred":[
         "Bahrain"
     ],
     "name:tso_x_preferred":[
@@ -1185,7 +1255,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617827488,
+    "wof:lastmodified":1690857382,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -27,10 +27,20 @@
     ],
     "name:ara_x_variant":[
         "\u0645\u062d\u0631\u0642",
+        "\u0627\u0644\u0645\u062d\u0631\u0642",
+        "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0631\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Al-Muharraq"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b9\u09be\u09b0\u09b0\u09be\u0995"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09c1\u09b9\u09be\u09b0\u09b0\u09be\u0995 \u09b6\u09b9\u09b0"
     ],
     "name:cat_x_preferred":[
         "Al-Muharraq"
@@ -50,11 +60,15 @@
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c7\u03b1\u03c1\u03ac\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03bf\u03c5\u03c7\u03ac\u03c1\u03b1\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Al Muharraq"
     ],
     "name:eng_x_variant":[
-        "Muharraq"
+        "Muharraq",
+        "Al-Muharraq"
     ],
     "name:epo_x_preferred":[
         "Muharrako"
@@ -219,7 +233,7 @@
         }
     ],
     "wof:id":1125819119,
-    "wof:lastmodified":1566614352,
+    "wof:lastmodified":1690857384,
     "wof:name":"Al Mu\u1e29arraq",
     "wof:parent_id":85669059,
     "wof:placetype":"locality",

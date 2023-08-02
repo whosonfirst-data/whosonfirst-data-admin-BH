@@ -23,11 +23,26 @@
     "name:ara_x_variant":[
         "\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Hamad Town"
+    ],
     "name:aze_x_preferred":[
         "H\u0259m\u0259d"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09ae\u09be\u09a6 \u09b6\u09b9\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Mad\u012bnat \u1e28amad"
+    ],
+    "name:dan_x_preferred":[
+        "Mad\u012bnat \u1e28amad"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03af\u03bd\u03b1\u03c4 \u03a7\u03b1\u03bc\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Hamad Town"
@@ -60,6 +75,9 @@
         "Madinat Hamad"
     ],
     "name:nno_x_preferred":[
+        "Hamad by"
+    ],
+    "name:nob_x_preferred":[
         "Hamad by"
     ],
     "name:pol_x_preferred":[
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":421192447,
-    "wof:lastmodified":1566614347,
+    "wof:lastmodified":1690857383,
     "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

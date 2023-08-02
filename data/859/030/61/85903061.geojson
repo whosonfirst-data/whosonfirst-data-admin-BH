@@ -44,6 +44,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u063a\u0631\u06cc\u0641\u0647"
     ],
+    "name:nld_x_preferred":[
+        "Ghuraifa"
+    ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":290340,
@@ -105,7 +108,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582345711,
+    "wof:lastmodified":1690857380,
     "wof:name":"Al Ghurayfah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
