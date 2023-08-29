@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Dschidhafs"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b9\u03bd\u03c4\u03ac\u03c6\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Jidhafs"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:tgl_x_preferred":[
         "Jidd Haffs"
+    ],
+    "name:tur_x_preferred":[
+        "Jidhafs"
     ],
     "name:und_x_variant":[
         "Judd \u1e28af\u015f"
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421194055,
-    "wof:lastmodified":1566614347,
+    "wof:lastmodified":1690857383,
     "wof:name":"\u062c\u062f \u062d\u0641\u0635",
     "wof:parent_id":85669053,
     "wof:placetype":"locality",

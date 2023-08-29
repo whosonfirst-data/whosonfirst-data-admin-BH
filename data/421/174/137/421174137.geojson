@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u062f\u0627\u0631 \u0643\u0644\u064a\u0628"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u09b0 \u0995\u09c1\u09b2\u09be\u0987\u09ac"
+    ],
     "name:ceb_x_preferred":[
         "D\u0101r Kulayb"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421174137,
-    "wof:lastmodified":1566614348,
+    "wof:lastmodified":1690857383,
     "wof:name":"\u062f\u0627\u0631 \u0643\u0644\u064a\u0628",
     "wof:parent_id":85669043,
     "wof:placetype":"locality",

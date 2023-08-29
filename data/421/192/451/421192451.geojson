@@ -27,11 +27,20 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0631\u0641\u0627\u0639"
     ],
+    "name:ast_x_preferred":[
+        "Riffa"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fr-Rifa"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u044b\u0444\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ab\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Riffa"
     ],
     "name:ceb_x_preferred":[
         "Ar Rif\u0101\u2018"
@@ -45,10 +54,19 @@
     "name:dan_x_preferred":[
         "Riffa"
     ],
+    "name:deu_x_preferred":[
+        "Riffa"
+    ],
     "name:ell_x_preferred":[
         "\u03a1\u03af\u03c6\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a1\u03b9\u03c6\u03ac"
+    ],
     "name:eng_x_preferred":[
+        "Riffa"
+    ],
+    "name:epo_x_preferred":[
         "Riffa"
     ],
     "name:est_x_preferred":[
@@ -64,6 +82,9 @@
         "Al-Riffa"
     ],
     "name:fra_x_preferred":[
+        "Riffa"
+    ],
+    "name:gle_x_preferred":[
         "Riffa"
     ],
     "name:guj_x_preferred":[
@@ -168,6 +189,9 @@
     "name:urd_x_preferred":[
         "\u0631\u0641\u0627\u0639"
     ],
+    "name:vec_x_preferred":[
+        "Riffa"
+    ],
     "name:vie_x_preferred":[
         "Riffa"
     ],
@@ -219,7 +243,7 @@
         }
     ],
     "wof:id":421192451,
-    "wof:lastmodified":1566614347,
+    "wof:lastmodified":1690857383,
     "wof:name":"Ar Rifa",
     "wof:parent_id":85669039,
     "wof:placetype":"locality",

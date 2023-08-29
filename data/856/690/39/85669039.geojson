@@ -36,6 +36,9 @@
         "Al Jan\u016bb\u012byah",
         "\u062c\u0646\u0648\u0628\u064a\u0629"
     ],
+    "name:aze_x_preferred":[
+        "C\u0259nub qubernatorlu\u011fu"
+    ],
     "name:bul_x_preferred":[
         "\u042e\u0436\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
@@ -44,6 +47,12 @@
     ],
     "name:ceb_x_preferred":[
         "Southern Governorate"
+    ],
+    "name:dan_x_preferred":[
+        "Sydlige Guvernement"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00fcdliches Gouvernement"
     ],
     "name:eng_x_preferred":[
         "Southern"
@@ -67,6 +76,9 @@
     ],
     "name:fra_x_preferred":[
         "Gouvernorat m\u00e9ridional"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd"
     ],
     "name:hun_x_preferred":[
         "D\u00e9li korm\u00e1nyz\u00f3s\u00e1g"
@@ -95,6 +107,9 @@
     "name:nld_x_preferred":[
         "Zuid"
     ],
+    "name:nld_x_variant":[
+        "Zuidelijk gouvernement"
+    ],
     "name:nob_x_preferred":[
         "S\u00f8rlige guvernement"
     ],
@@ -121,6 +136,12 @@
     ],
     "name:swe_x_preferred":[
         "Southern Governorate"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u043d\u044c\u044f\u043a \u043c\u0443\u0445\u0430\u0444\u0430\u0437\u0430"
     ],
     "name:tur_x_preferred":[
         "G\u00fcney Valili\u011fi"
@@ -268,7 +289,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636500647,
+    "wof:lastmodified":1690857382,
     "wof:name":"Southern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

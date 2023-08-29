@@ -48,6 +48,12 @@
     "name:deu_x_preferred":[
         "Schamal"
     ],
+    "name:deu_x_variant":[
+        "N\u00f6rdliches Gouvernement"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf"
+    ],
     "name:eng_x_colloquial":[
         "Northern"
     ],
@@ -62,6 +68,9 @@
     "name:epo_x_preferred":[
         "Norda Provinco"
     ],
+    "name:epo_x_variant":[
+        "Norda gubernio"
+    ],
     "name:eus_x_preferred":[
         "Iparraldeko eskualdea"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:fra_x_preferred":[
         "Gouvernorat septentrional"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df"
     ],
     "name:hun_x_preferred":[
         "\u00c9szaki"
@@ -136,6 +148,12 @@
     ],
     "name:swe_x_variant":[
         "Northern Governorate"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0b95\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u04e9\u043d\u044c\u044f\u043a \u043c\u0443\u0445\u0430\u0444\u0430\u0437\u0430"
     ],
     "name:tur_x_preferred":[
         "Kuzey Valili\u011fi"
@@ -273,7 +291,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636500647,
+    "wof:lastmodified":1690857381,
     "wof:name":"Northern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

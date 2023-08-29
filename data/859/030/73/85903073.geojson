@@ -47,6 +47,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u0639\u0634\u06cc\u0631\u0647"
     ],
+    "name:nld_x_preferred":[
+        "Bu Ashira"
+    ],
     "qs:gn_adm0_cc":"BH",
     "qs:gn_id":0,
     "qs:gn_local":290340,
@@ -105,7 +108,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582345711,
+    "wof:lastmodified":1690857380,
     "wof:name":"\u0628\u0648 \u0639\u0634\u064a\u0631\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
