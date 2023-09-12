@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070331,
-    "geom:area_square_m":781290976.824922,
+    "geom:area_square_m":781290976.825043,
     "geom:bbox":"50.310047,25.55625,50.82486,26.331343",
     "geom:latitude":26.051802,
     "geom:longitude":50.564827,
@@ -13,6 +13,9 @@
     "iso:country":"BH",
     "itu:country_code":[
         "973"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BH"
@@ -1183,7 +1186,8 @@
     ],
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"973",
     "statoids:ds":"BRN",
     "statoids:fifa":"BHR",
@@ -1241,7 +1245,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"c9b12d71060c01f0d571c61fbc0040d4",
+    "wof:geomhash":"3036998dbe467babc2f25c2329dc054c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1255,12 +1259,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857382,
+    "wof:lastmodified":1694492076,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":1332171,
-    "wof:population_rank":12,
+    "wof:population":1641172,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bh",
     "wof:shortcode":"BH",
     "wof:superseded_by":[],
