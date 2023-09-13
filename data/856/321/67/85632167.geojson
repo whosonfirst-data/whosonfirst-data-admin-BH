@@ -1187,7 +1187,7 @@
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"973",
     "statoids:ds":"BRN",
     "statoids:fifa":"BHR",
@@ -1259,7 +1259,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694492076,
+    "wof:lastmodified":1694639529,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
