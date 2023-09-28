@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044357,
-    "geom:area_square_m":493106745.835086,
+    "geom:area_square_m":493106732.517691,
     "geom:bbox":"50.453122,25.55625,50.82486,26.186784",
     "geom:latitude":25.967073,
     "geom:longitude":50.579514,
@@ -266,15 +266,17 @@
         "gn:id":7090972,
         "gp:id":56051602,
         "hasc:id":"BH.SN",
+        "iso:code":"BH-14",
         "iso:id":"BH-14",
         "qs_pg:id":483132,
         "wd:id":"Q838532"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fc4cceea76f585f374ff638969dde7a",
+    "wof:geomhash":"1c3653cd00b6bb788e6523e4a8ad7379",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -289,7 +291,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857382,
+    "wof:lastmodified":1695884872,
     "wof:name":"Southern",
     "wof:parent_id":85632167,
     "wof:placetype":"region",

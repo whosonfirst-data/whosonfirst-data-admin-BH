@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005866,
-    "geom:area_square_m":65048805.760276,
+    "geom:area_square_m":65048679.724057,
     "geom:bbox":"50.576366,26.178834,50.720622,26.331343",
     "geom:latitude":26.261095,
     "geom:longitude":50.642649,
@@ -300,15 +300,17 @@
         "gn:id":290333,
         "gp:id":2344724,
         "hasc:id":"BH.MU",
+        "iso:code":"BH-15",
         "iso:id":"BH-15",
         "qs_pg:id":1251493,
         "wd:id":"Q375630"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f24ebda5b610eb2cdfc2cc74d957279",
+    "wof:geomhash":"4fe7b5212e0d37484bd80f8f23a805f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857381,
+    "wof:lastmodified":1695884405,
     "wof:name":"Muharraq",
     "wof:parent_id":85632167,
     "wof:placetype":"region",
