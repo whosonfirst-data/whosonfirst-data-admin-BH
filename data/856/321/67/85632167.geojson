@@ -1225,6 +1225,7 @@
         "hasc:id":"BH",
         "icao:code":"A9C",
         "ioc:id":"BRN",
+        "iso:code":"BH",
         "itu:id":"BHR",
         "m49:code":"048",
         "marc:id":"ba",
@@ -1238,6 +1239,7 @@
         "wk:page":"Bahrain",
         "wmo:id":"BN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BH",
     "wof:country_alpha3":"BHR",
     "wof:geom_alt":[
@@ -1259,7 +1261,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639529,
+    "wof:lastmodified":1695881186,
     "wof:name":"Bahrain",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
