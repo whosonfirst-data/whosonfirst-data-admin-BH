@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006778,
-    "geom:area_square_m":75193975.921455,
+    "geom:area_square_m":75193942.534063,
     "geom:bbox":"50.502317,26.123685,50.632434,26.25863",
     "geom:latitude":26.201601,
     "geom:longitude":50.576626,
@@ -270,16 +270,18 @@
         "gn:id":7090954,
         "gp:id":2344720,
         "hasc:id":"BH.CP",
+        "iso:code":"BH-13",
         "iso:id":"BH-13",
         "qs_pg:id":1134915,
         "unlc:id":"BH-13",
         "wd:id":"Q528953"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a0a7d2acbab937545bff944a12c0e3c",
+    "wof:geomhash":"7f3ae3d738992d597f5b615071414855",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857381,
+    "wof:lastmodified":1695884405,
     "wof:name":"Capital",
     "wof:parent_id":85632167,
     "wof:placetype":"region",
